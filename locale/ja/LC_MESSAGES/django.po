@@ -58,11 +58,11 @@ msgstr "問題は再現しないか無効です"
 
 #: forum/const.py:15
 msgid "question contains offensive inappropriate, or malicious remarks"
-msgstr ""
+msgstr "質問は侮辱的で不適切もしくは悪意のある意見を含んでいます"
 
 #: forum/const.py:16
 msgid "spam or advertising"
-msgstr ""
+msgstr "スパムもしくは広告"
 
 #: forum/const.py:57
 msgid "question"
@@ -82,158 +82,158 @@ msgstr "コメント付き回答"
 
 #: forum/const.py:61
 msgid "edited question"
-msgstr ""
+msgstr "編集された質問"
 
 #: forum/const.py:62
 msgid "edited answer"
-msgstr ""
+msgstr "編集された回答"
 
 #: forum/const.py:63
 msgid "received award"
-msgstr "received badge"
+msgstr "得られたバッジ"
 
 #: forum/const.py:64
 msgid "marked best answer"
-msgstr ""
+msgstr "ベストアンサー印"
 
 #: forum/const.py:65
 msgid "upvoted"
-msgstr ""
+msgstr "上げ"
 
 #: forum/const.py:66
 msgid "downvoted"
-msgstr ""
+msgstr "下げ"
 
 #: forum/const.py:67
 msgid "canceled vote"
-msgstr ""
+msgstr "キャンセルされた投票"
 
 #: forum/const.py:68
 msgid "deleted question"
-msgstr ""
+msgstr "削除された質問"
 
 #: forum/const.py:69
 msgid "deleted answer"
-msgstr ""
+msgstr "削除された回答"
 
 #: forum/const.py:70
 msgid "marked offensive"
-msgstr ""
+msgstr "不快印"
 
 #: forum/const.py:71
 msgid "updated tags"
-msgstr ""
+msgstr "更新されたタグ"
 
 #: forum/const.py:72
 msgid "selected favorite"
-msgstr ""
+msgstr "選択されたお気に入り"
 
 #: forum/const.py:73
 msgid "completed user profile"
-msgstr ""
+msgstr "完全なユーザプロファイル"
 
 #: forum/const.py:74
 msgid "email update sent to user"
-msgstr ""
+msgstr "電子メールアップデートをユーザに送信"
 
 #: forum/const.py:78
 msgid "question_answered"
-msgstr "answer"
+msgstr "回答"
 
 #: forum/const.py:79
 msgid "question_commented"
-msgstr "question comment"
+msgstr "質問コメント"
 
 #: forum/const.py:80
 msgid "answer_commented"
-msgstr "answer comment"
+msgstr "回答コメント"
 
 #: forum/const.py:81
 msgid "answer_accepted"
-msgstr "answer accepted"
+msgstr "受け付けられた回答"
 
 #: forum/const.py:85
 msgid "[closed]"
-msgstr ""
+msgstr "[閉鎖されました]"
 
 #: forum/const.py:86
 msgid "[deleted]"
-msgstr ""
+msgstr "[削除されました]"
 
 #: forum/const.py:87 forum/views/readers.py:564 forum/views/readers.py:583
 msgid "initial version"
-msgstr ""
+msgstr "最初のバージョン"
 
 #: forum/const.py:88
 msgid "retagged"
-msgstr ""
+msgstr "再度タグ付け"
 
 #: forum/const.py:92
 msgid "exclude ignored tags"
-msgstr ""
+msgstr "排除、無視するタグ"
 
 #: forum/const.py:92
 msgid "allow only selected tags"
-msgstr ""
+msgstr "選択されたタグのみ"
 
 #: forum/feed.py:18
 msgid " - "
-msgstr ""
+msgstr " - "
 
 #: forum/feed.py:18
 msgid "latest questions"
-msgstr ""
+msgstr "最近の質問"
 
 #: forum/forms.py:22 forum/skins/default/templates/answer_edit_tips.html:35
 #: forum/skins/default/templates/answer_edit_tips.html:39
 #: forum/skins/default/templates/question_edit_tips.html:32
 #: forum/skins/default/templates/question_edit_tips.html:37
 msgid "title"
-msgstr ""
+msgstr "タイトル"
 
 #: forum/forms.py:23
 msgid "please enter a descriptive title for your question"
-msgstr ""
+msgstr "質問の記述的なタイトルを入力してください"
 
 #: forum/forms.py:28
 msgid "title must be > 10 characters"
-msgstr ""
+msgstr "タイトルは１０文字以上必要です"
 
 #: forum/forms.py:37
 msgid "content"
-msgstr ""
+msgstr "内容"
 
 #: forum/forms.py:43
 msgid "question content must be > 10 characters"
-msgstr ""
+msgstr "質問の内容は１０文字以上必要です"
 
 #: forum/forms.py:53 forum/skins/default/templates/header.html:28
 #: forum/skins/default/templates/header.html:56
 msgid "tags"
-msgstr ""
+msgstr "タグ"
 
 #: forum/forms.py:55
 msgid ""
 "Tags are short keywords, with no spaces within. Up to five tags can be used."
-msgstr ""
+msgstr "タグは短いキーワードで空白文字（スペース）は含めません。５つまでのタグが使用できます。"
 
 #: forum/forms.py:62 forum/skins/default/templates/question_retag.html:39
 msgid "tags are required"
-msgstr ""
+msgstr "タグが必須です"
 
 #: forum/forms.py:68
 msgid "please use 5 tags or less"
-msgstr ""
+msgstr "５つ以内のタグを使いましょう"
 
 #: forum/forms.py:71
 msgid "tags must be shorter than 20 characters"
-msgstr ""
+msgstr "タグは２０文字以内の長さです"
 
 #: forum/forms.py:75
 msgid ""
 "please use following characters in tags: letters 'a-z', numbers, and "
 "characters '.-_#'"
-msgstr ""
+msgstr "タグとして使用可能文字は、アルファベットと数字と '.-_#' です"
 
 #: forum/forms.py:85
 #: forum/skins/default/templates/post_contributor_info.html:7
@@ -242,118 +242,118 @@ msgstr ""
 #: forum/skins/default/templates/questions.html:92
 #: forum/skins/default/templates/questions.html:104
 msgid "community wiki"
-msgstr ""
+msgstr "コミュニティー wiki"
 
 #: forum/forms.py:86
 msgid ""
 "if you choose community wiki option, the question and answer do not generate "
 "points and name of author will not be shown"
-msgstr ""
+msgstr "コミュニティー wikiオプションを選択した場合、質問と回答はポイントを生成せず、作者名は表示されない"
 
 #: forum/forms.py:102
 msgid "update summary:"
-msgstr ""
+msgstr "サマリーを更新："
 
 #: forum/forms.py:103
 msgid ""
 "enter a brief summary of your revision (e.g. fixed spelling, grammar, "
 "improved style, this field is optional)"
-msgstr ""
+msgstr "あなたのリビジョンの要約サマリ（たとえば、スペル修正、文法修正、スタイル改善など。ここオプションです。）を入力してください"
 
 #: forum/forms.py:106
 msgid "Automatically accept user's contributions for the email updates"
-msgstr ""
+msgstr "電子メール更新のためにユーザーの貢献を自動的に承諾する"
 
 #: forum/forms.py:122
 msgid "Your name:"
-msgstr ""
+msgstr "名前："
 
 #: forum/forms.py:123
 msgid "Email (not shared with anyone):"
-msgstr ""
+msgstr "メールアドレス（ほかのひとには非公開）："
 
 #: forum/forms.py:124
 msgid "Your message:"
-msgstr ""
+msgstr "メッセージ："
 
 #: forum/forms.py:206
 msgid "this email does not have to be linked to gravatar"
-msgstr ""
+msgstr "このメールアドレスはgravatorにリンクされていません"
 
 #: forum/forms.py:208
 msgid "Screen name"
-msgstr ""
+msgstr "スクリーン名"
 
 #: forum/forms.py:209
 msgid "Real name"
-msgstr ""
+msgstr "実名"
 
 #: forum/forms.py:210
 msgid "Website"
-msgstr ""
+msgstr "ウェブサイト"
 
 #: forum/forms.py:211
 msgid "Location"
-msgstr ""
+msgstr "場所"
 
 #: forum/forms.py:212
 msgid "Date of birth"
-msgstr ""
+msgstr "生年月日"
 
 #: forum/forms.py:212
 msgid "will not be shown, used to calculate age, format: YYYY-MM-DD"
-msgstr ""
+msgstr "表示されません、年齢の計算に利用します、型式：YYYY-MM-DD"
 
 #: forum/forms.py:213 forum/skins/default/templates/account_settings.html:21
 #: forum/skins/default/templates/authopenid/settings.html:21
 msgid "Profile"
-msgstr ""
+msgstr "プロファイル"
 
 #: forum/forms.py:244 forum/forms.py:245
 msgid "this email has already been registered, please use another one"
-msgstr ""
+msgstr "このメールアドレスは登録済みです、ほかのものを使って下さい"
 
 #: forum/forms.py:251
 msgid "Choose email tag filter"
-msgstr ""
+msgstr "電子メールタグフィルターを選択してください"
 
 #: forum/forms.py:269
 msgid "Current password"
-msgstr ""
+msgstr "現在のパスワード"
 
 #: forum/forms.py:280
 msgid ""
 "Old password is incorrect.                     Please enter the correct "
 "password."
-msgstr ""
+msgstr "古いパスワードは誤りです。正しいパスワードを入力してください。"
 
 #: forum/forms.py:285 forum/forms.py:286
 msgid "weekly"
-msgstr ""
+msgstr "ウイークリー"
 
 #: forum/forms.py:285 forum/forms.py:286
 msgid "no email"
-msgstr ""
+msgstr "電子メール無し"
 
 #: forum/forms.py:286
 msgid "daily"
-msgstr ""
+msgstr "デイリー"
 
 #: forum/forms.py:301
 msgid "Asked by me"
-msgstr ""
+msgstr "自分からの質問"
 
 #: forum/forms.py:304
 msgid "Answered by me"
-msgstr ""
+msgstr "自分からの回答"
 
 #: forum/forms.py:307
 msgid "Individually selected"
-msgstr ""
+msgstr "個人的に選択された"
 
 #: forum/forms.py:310
 msgid "Entire forum (tag filtered)"
-msgstr ""
+msgstr "フォーラム全体（タグでフィルターされた）"
 
 #: forum/urls.py:28
 msgid "upfiles/"
@@ -518,19 +518,19 @@ msgstr ""
 
 #: forum/authentication/forms.py:17
 msgid "okay, let's try!"
-msgstr ""
+msgstr "よし、はじめよう！"
 
 #: forum/authentication/forms.py:18
 msgid "no OSQA community email please, thanks"
-msgstr ""
+msgstr "OSAQコミュニティ電子メール無しで"
 
 #: forum/authentication/forms.py:21
 msgid "please choose one of the options above"
-msgstr ""
+msgstr "上記から一つ選択してください"
 
 #: forum/management/commands/send_email_alerts.py:156
 msgid "email update message subject"
-msgstr "news from Q&A forum"
+msgstr "Q&Aフォーラムからのニュース"
 
 #: forum/management/commands/send_email_alerts.py:158
 #, python-format
@@ -545,7 +545,7 @@ msgstr[1] ""
 
 #: forum/management/commands/send_email_alerts.py:169
 msgid "new question"
-msgstr ""
+msgstr "あたらしい質問"
 
 #: forum/management/commands/send_email_alerts.py:179
 #, python-format
@@ -558,7 +558,7 @@ msgstr[1] ""
 #: forum/management/commands/send_email_alerts.py:184
 msgid ""
 "Perhaps you could look up previously sent forum reminders in your mailbox."
-msgstr ""
+msgstr "おそらく、メールボックスの中に以前送ったフォーラムのリマインダーが見付かるはず。"
 
 #: forum/management/commands/send_email_alerts.py:188
 #, python-format
@@ -575,12 +575,12 @@ msgstr ""
 #: forum/middleware/anon_user.py:34
 #, python-format
 msgid "First time here? Check out the <a href=\"%s\">FAQ</a>!"
-msgstr ""
+msgstr "ここははじめてですか？ <a href=\"%s\">FAQ</a>をチェックしましょう。"
 
 #: forum/models/question.py:247
 #, python-format
 msgid "%(author)s modified the question"
-msgstr ""
+msgstr "%(author) が改変した質問"
 
 #: forum/models/question.py:251
 #, python-format
@@ -604,102 +604,102 @@ msgstr ""
 
 #: forum/models/repute.py:13 forum/skins/default/templates/badges.html:53
 msgid "gold"
-msgstr ""
+msgstr "金"
 
 #: forum/models/repute.py:14 forum/skins/default/templates/badges.html:61
 msgid "silver"
-msgstr ""
+msgstr "銀"
 
 #: forum/models/repute.py:15 forum/skins/default/templates/badges.html:68
 msgid "bronze"
-msgstr ""
+msgstr "銅"
 
 #: forum/models/tag.py:79
 msgid "interesting"
-msgstr ""
+msgstr "興味深い"
 
 #: forum/models/tag.py:79
 msgid "ignored"
-msgstr ""
+msgstr "無視"
 
 #: forum/models/user.py:33
 msgid "Entire forum"
-msgstr ""
+msgstr "フォーラムに入る"
 
 #: forum/models/user.py:34
 msgid "Questions that I asked"
-msgstr ""
+msgstr "尋ねた質問"
 
 #: forum/models/user.py:35
 msgid "Questions that I answered"
-msgstr ""
+msgstr "回答した質問"
 
 #: forum/models/user.py:36
 msgid "Individually selected questions"
-msgstr ""
+msgstr "個人的に選択した質問"
 
 #: forum/models/user.py:39
 msgid "Weekly"
-msgstr ""
+msgstr "ウイークリー"
 
 #: forum/models/user.py:40
 msgid "Daily"
-msgstr ""
+msgstr "デイリー"
 
 #: forum/models/user.py:41
 msgid "No email"
-msgstr ""
+msgstr "メール無し"
 
 #: forum/skins/default/templates/404.html:24
 msgid "Sorry, could not find the page you requested."
-msgstr ""
+msgstr "残念ながら、リクエストされたページは見つかりません。"
 
 #: forum/skins/default/templates/404.html:26
 msgid "This might have happened for the following reasons:"
-msgstr ""
+msgstr "これはもしかしたらつぎのような理由でおこったかもしれない："
 
 #: forum/skins/default/templates/404.html:28
 msgid "this question or answer has been deleted;"
-msgstr ""
+msgstr "この質問もしくは回答は削除されました；"
 
 #: forum/skins/default/templates/404.html:29
 msgid "url has error - please check it;"
-msgstr ""
+msgstr "URLはエラーです。確認して下さい；"
 
 #: forum/skins/default/templates/404.html:30
 msgid ""
 "the page you tried to visit is protected or you don't have sufficient "
 "points, see"
-msgstr ""
+msgstr "開こうとしたページは保護されているか、十分なポイントをもっていません、"
 
 #: forum/skins/default/templates/404.html:31
 msgid "if you believe this error 404 should not have occured, please"
-msgstr ""
+msgstr "このエラー404がおこらないとを信じるなら、"
 
 #: forum/skins/default/templates/404.html:32
 msgid "report this problem"
-msgstr ""
+msgstr "この問題が繰り返す"
 
 #: forum/skins/default/templates/404.html:41
 #: forum/skins/default/templates/500.html:27
 msgid "back to previous page"
-msgstr ""
+msgstr "以前のページに戻る"
 
 #: forum/skins/default/templates/404.html:42
 msgid "see all questions"
-msgstr ""
+msgstr "すべての質問をみる"
 
 #: forum/skins/default/templates/404.html:43
 msgid "see all tags"
-msgstr ""
+msgstr "すべてのタグをみる"
 
 #: forum/skins/default/templates/500.html:22
 msgid "sorry, system error"
-msgstr ""
+msgstr "残念ながら、システムエラー"
 
 #: forum/skins/default/templates/500.html:24
 msgid "system error log is recorded, error will be fixed as soon as possible"
-msgstr ""
+msgstr "システムエラーログが記録されました、エラーはできる限り速やかに修正されるでしょう"
 
 #: forum/skins/default/templates/500.html:25
 msgid "please report the error to the site administrators if you wish"
@@ -707,21 +707,21 @@ msgstr ""
 
 #: forum/skins/default/templates/500.html:28
 msgid "see latest questions"
-msgstr ""
+msgstr "最新の質問をみる"
 
 #: forum/skins/default/templates/500.html:29
 msgid "see tags"
-msgstr ""
+msgstr "タグをみる"
 
 #: forum/skins/default/templates/about.html:6
 #: forum/skins/default/templates/about.html:11
 msgid "About"
-msgstr ""
+msgstr "概要"
 
 #: forum/skins/default/templates/account_settings.html:4
 #: forum/skins/default/templates/authopenid/settings.html:4
 msgid "Account functions"
-msgstr ""
+msgstr "アカウント機能"
 
 #: forum/skins/default/templates/account_settings.html:29
 #: forum/skins/default/templates/changepw.html:5
@@ -730,50 +730,50 @@ msgstr ""
 #: forum/skins/default/templates/authopenid/changepw.html:14
 #: forum/skins/default/templates/authopenid/settings.html:29
 msgid "Change password"
-msgstr ""
+msgstr "パスワードを変更する"
 
 #: forum/skins/default/templates/account_settings.html:30
 #: forum/skins/default/templates/authopenid/settings.html:30
 msgid "Give your  account a new password."
-msgstr ""
+msgstr "あたらしいパスワードを設定する"
 
 #: forum/skins/default/templates/account_settings.html:32
 #: forum/skins/default/templates/authopenid/settings.html:31
 msgid "Change email "
-msgstr ""
+msgstr "メールアドレスを変更する"
 
 #: forum/skins/default/templates/account_settings.html:33
 #: forum/skins/default/templates/authopenid/settings.html:32
 msgid "Add or update the email address associated with your account."
-msgstr ""
+msgstr "アカウントに紐づいた電子メールアドレスを追加もしくは更新する"
 
 #: forum/skins/default/templates/account_settings.html:35
 #: forum/skins/default/templates/authopenid/changeopenid.html:4
 #: forum/skins/default/templates/authopenid/changeopenid.html:30
 #: forum/skins/default/templates/authopenid/settings.html:34
 msgid "Change OpenID"
-msgstr ""
+msgstr "OpenIDを変更する"
 
 #: forum/skins/default/templates/account_settings.html:36
 #: forum/skins/default/templates/authopenid/settings.html:35
 msgid "Change openid associated to your account"
-msgstr ""
+msgstr "アカウントに紐づいたOpenIDを変更する"
 
 #: forum/skins/default/templates/account_settings.html:39
 #: forum/skins/default/templates/authopenid/delete.html:4
 #: forum/skins/default/templates/authopenid/settings.html:38
 msgid "Delete account"
-msgstr ""
+msgstr "アカウントを消去する"
 
 #: forum/skins/default/templates/account_settings.html:40
 #: forum/skins/default/templates/authopenid/settings.html:39
 msgid "Erase your username and all your data from website"
-msgstr ""
+msgstr "ユーザ名とすべてのデータをウェブサイトから消去する"
 
 #: forum/skins/default/templates/answer_edit.html:5
 #: forum/skins/default/templates/answer_edit.html:48
 msgid "Edit answer"
-msgstr ""
+msgstr "回答を編集する"
 
 #: forum/skins/default/templates/answer_edit.html:25
 #: forum/skins/default/templates/answer_edit.html:28
@@ -784,14 +784,14 @@ msgstr ""
 #: forum/skins/default/templates/question_edit.html:25
 #: forum/skins/default/templates/question_edit.html:28
 msgid "hide preview"
-msgstr ""
+msgstr "プレビューを隠す"
 
 #: forum/skins/default/templates/answer_edit.html:28
 #: forum/skins/default/templates/ask.html:29
 #: forum/skins/default/templates/question.html:48
 #: forum/skins/default/templates/question_edit.html:28
 msgid "show preview"
-msgstr ""
+msgstr "プレビューを表示する"
 
 #: forum/skins/default/templates/answer_edit.html:48
 #: forum/skins/default/templates/question_edit.html:66
@@ -799,39 +799,39 @@ msgstr ""
 #: forum/skins/default/templates/revisions_answer.html:38
 #: forum/skins/default/templates/revisions_question.html:38
 msgid "back"
-msgstr ""
+msgstr "もどる"
 
 #: forum/skins/default/templates/answer_edit.html:53
 #: forum/skins/default/templates/question_edit.html:71
 #: forum/skins/default/templates/revisions_answer.html:52
 #: forum/skins/default/templates/revisions_question.html:52
 msgid "revision"
-msgstr ""
+msgstr "改訂"
 
 #: forum/skins/default/templates/answer_edit.html:56
 #: forum/skins/default/templates/question_edit.html:75
 msgid "select revision"
-msgstr ""
+msgstr "改訂を選択する"
 
 #: forum/skins/default/templates/answer_edit.html:63
 #: forum/skins/default/templates/ask.html:97
 #: forum/skins/default/templates/question.html:432
 #: forum/skins/default/templates/question_edit.html:92
 msgid "Toggle the real time Markdown editor preview"
-msgstr ""
+msgstr "リアルタイムMarkdown編集プレビューをトグルする"
 
 #: forum/skins/default/templates/answer_edit.html:63
 #: forum/skins/default/templates/ask.html:97
 #: forum/skins/default/templates/question.html:433
 #: forum/skins/default/templates/question_edit.html:92
 msgid "toggle preview"
-msgstr ""
+msgstr "プレビューをトグルする"
 
 #: forum/skins/default/templates/answer_edit.html:72
 #: forum/skins/default/templates/question_edit.html:118
 #: forum/skins/default/templates/question_retag.html:74
 msgid "Save edit"
-msgstr ""
+msgstr "編集を保存する"
 
 #: forum/skins/default/templates/answer_edit.html:73
 #: forum/skins/default/templates/close.html:29
@@ -842,38 +842,38 @@ msgstr ""
 #: forum/skins/default/templates/user_edit.html:87
 #: forum/skins/default/templates/authopenid/changeemail.html:40
 msgid "Cancel"
-msgstr ""
+msgstr "キャンセル"
 
 #: forum/skins/default/templates/answer_edit_tips.html:4
 msgid "answer tips"
-msgstr "Tips"
+msgstr "コツ"
 
 #: forum/skins/default/templates/answer_edit_tips.html:7
 msgid "please make your answer relevant to this community"
-msgstr ""
+msgstr "このコミュニティーに即した回答をしてくだあし"
 
 #: forum/skins/default/templates/answer_edit_tips.html:10
 msgid "try to give an answer, rather than engage into a discussion"
-msgstr ""
+msgstr "議論にかみ合うよりむしろ、回答をあたえるようにしてみましょう"
 
 #: forum/skins/default/templates/answer_edit_tips.html:13
 msgid "please try to provide details"
-msgstr ""
+msgstr "詳細を提供してみましょう"
 
 #: forum/skins/default/templates/answer_edit_tips.html:16
 #: forum/skins/default/templates/question_edit_tips.html:13
 msgid "be clear and concise"
-msgstr ""
+msgstr "明確で正確であれ"
 
 #: forum/skins/default/templates/answer_edit_tips.html:20
 #: forum/skins/default/templates/question_edit_tips.html:17
 msgid "see frequently asked questions"
-msgstr ""
+msgstr "良くある質問をみましょう"
 
 #: forum/skins/default/templates/answer_edit_tips.html:26
 #: forum/skins/default/templates/question_edit_tips.html:23
 msgid "Markdown tips"
-msgstr "Markdown basics"
+msgstr "Markdown の基本"
 
 #: forum/skins/default/templates/answer_edit_tips.html:29
 #: forum/skins/default/templates/question_edit_tips.html:26
@@ -910,17 +910,17 @@ msgstr ""
 #: forum/skins/default/templates/answer_edit_tips.html:48
 #: forum/skins/default/templates/question_edit_tips.html:46
 msgid "basic HTML tags are also supported"
-msgstr ""
+msgstr "基本HTMLタグもサポートしています"
 
 #: forum/skins/default/templates/answer_edit_tips.html:52
 #: forum/skins/default/templates/question_edit_tips.html:50
 msgid "learn more about Markdown"
-msgstr ""
+msgstr "Markdownについてさらに学ぶ"
 
 #: forum/skins/default/templates/ask.html:5
 #: forum/skins/default/templates/ask.html:61
 msgid "Ask a question"
-msgstr ""
+msgstr "質問をたずねる"
 
 #: forum/skins/default/templates/ask.html:68
 msgid "login to post question info"
@@ -946,7 +946,7 @@ msgstr ""
 
 #: forum/skins/default/templates/ask.html:112
 msgid "(required)"
-msgstr ""
+msgstr "（必須）"
 
 #: forum/skins/default/templates/ask.html:119
 msgid "Login/signup to post your question"
@@ -954,24 +954,24 @@ msgstr "Login/Signup to Post"
 
 #: forum/skins/default/templates/ask.html:121
 msgid "Ask your question"
-msgstr "Ask Your Question"
+msgstr "質問をたずねる"
 
 #: forum/skins/default/templates/badge.html:6
 #: forum/skins/default/templates/badge.html:17
 msgid "Badge"
-msgstr ""
+msgstr "バッジ"
 
 #: forum/skins/default/templates/badge.html:26
 msgid "The users have been awarded with badges:"
-msgstr ""
+msgstr "ユーザーはバッジを授与されています："
 
 #: forum/skins/default/templates/badges.html:6
 msgid "Badges summary"
-msgstr ""
+msgstr "バッジサマリー"
 
 #: forum/skins/default/templates/badges.html:17
 msgid "Badges"
-msgstr ""
+msgstr "バッジ"
 
 #: forum/skins/default/templates/badges.html:21
 msgid "Community gives you awards for your questions, answers and votes."
@@ -1022,7 +1022,7 @@ msgstr ""
 
 #: forum/skins/default/templates/book.html:7
 msgid "reading channel"
-msgstr ""
+msgstr "チャンネルを読んでいる"
 
 #: forum/skins/default/templates/book.html:26
 msgid "[author]"
@@ -1058,7 +1058,7 @@ msgstr ""
 
 #: forum/skins/default/templates/book.html:56
 msgid "author blog"
-msgstr ""
+msgstr "作者ブログ"
 
 #: forum/skins/default/templates/book.html:62
 msgid "book directory"
@@ -1074,20 +1074,20 @@ msgstr ""
 
 #: forum/skins/default/templates/book.html:82
 msgid "ask the author"
-msgstr ""
+msgstr "作者にたずねる"
 
 #: forum/skins/default/templates/book.html:88
 #: forum/skins/default/templates/book.html:93
 #: forum/skins/default/templates/users_questions.html:18
 msgid "this question was selected as favorite"
-msgstr ""
+msgstr "この質問はお気に入りとして選ばれました"
 
 #: forum/skins/default/templates/book.html:88
 #: forum/skins/default/templates/book.html:93
 #: forum/skins/default/templates/users_questions.html:11
 #: forum/skins/default/templates/users_questions.html:18
 msgid "number of times"
-msgstr ""
+msgstr "回数"
 
 #: forum/skins/default/templates/book.html:105
 #: forum/skins/default/templates/index.html:40
@@ -1096,7 +1096,7 @@ msgstr ""
 #: forum/skins/default/templates/questions.html:80
 #: forum/skins/default/templates/users_questions.html:32
 msgid "votes"
-msgstr ""
+msgstr "投票"
 
 #: forum/skins/default/templates/book.html:108
 msgid "the answer has been accepted to be correct"
@@ -1109,7 +1109,7 @@ msgstr ""
 #: forum/skins/default/templates/questions.html:81
 #: forum/skins/default/templates/users_questions.html:40
 msgid "views"
-msgstr ""
+msgstr "ビュー"
 
 #: forum/skins/default/templates/book.html:125
 #: forum/skins/default/templates/index.html:63
@@ -1120,17 +1120,17 @@ msgstr ""
 #: forum/skins/default/templates/tags.html:49
 #: forum/skins/default/templates/users_questions.html:52
 msgid "using tags"
-msgstr ""
+msgstr "タグを利用している"
 
 #: forum/skins/default/templates/book.html:147
 msgid "subscribe to book RSS feed"
-msgstr ""
+msgstr "ブックRSSフィードを購読する"
 
 #: forum/skins/default/templates/book.html:147
 #: forum/skins/default/templates/index.html:114
 #: forum/skins/default/templates/index_.html:114
 msgid "subscribe to the questions feed"
-msgstr ""
+msgstr "質問フィードを購読する"
 
 #: forum/skins/default/templates/changepw.html:7
 #: forum/skins/default/templates/authopenid/changepw.html:7
@@ -1147,27 +1147,27 @@ msgstr ""
 #: forum/skins/default/templates/close.html:6
 #: forum/skins/default/templates/close.html:16
 msgid "Close question"
-msgstr ""
+msgstr "質問を閉鎖する"
 
 #: forum/skins/default/templates/close.html:19
 msgid "Close the question"
-msgstr ""
+msgstr "質問を閉鎖する"
 
 #: forum/skins/default/templates/close.html:25
 msgid "Reasons"
-msgstr ""
+msgstr "理由"
 
 #: forum/skins/default/templates/close.html:28
 msgid "OK to close"
-msgstr ""
+msgstr "閉鎖を確定する"
 
 #: forum/skins/default/templates/faq.html:11
 msgid "Frequently Asked Questions "
-msgstr ""
+msgstr "よくある質問"
 
 #: forum/skins/default/templates/faq.html:16
 msgid "What kinds of questions can I ask here?"
-msgstr ""
+msgstr "ここでどんな質問をしてよいのか？"
 
 #: forum/skins/default/templates/faq.html:17
 msgid ""
@@ -1210,7 +1210,7 @@ msgstr ""
 
 #: forum/skins/default/templates/faq.html:32
 msgid "Who moderates this community?"
-msgstr ""
+msgstr "このコミュニティーをだれがモデレートしているのか？"
 
 #: forum/skins/default/templates/faq.html:33
 msgid "The short answer is: <strong>you</strong>."
@@ -1258,11 +1258,11 @@ msgstr ""
 
 #: forum/skins/default/templates/faq.html:57
 msgid "use tags"
-msgstr ""
+msgstr "タグを利用する"
 
 #: forum/skins/default/templates/faq.html:62
 msgid "add comments"
-msgstr ""
+msgstr "コメントを加える"
 
 #: forum/skins/default/templates/faq.html:66
 #: forum/skins/default/templates/user_votes.html:17
@@ -1275,27 +1275,27 @@ msgstr ""
 
 #: forum/skins/default/templates/faq.html:73
 msgid "retag questions"
-msgstr ""
+msgstr "質問にタグを再びつける"
 
 #: forum/skins/default/templates/faq.html:78
 msgid "edit community wiki questions"
-msgstr ""
+msgstr "コミュニティー wiki 質問を編集する"
 
 #: forum/skins/default/templates/faq.html:83
 msgid "edit any answer"
-msgstr ""
+msgstr "あらゆる回答を編集する"
 
 #: forum/skins/default/templates/faq.html:87
 msgid "open any closed question"
-msgstr ""
+msgstr "あらゆる閉鎖した質問を開く"
 
 #: forum/skins/default/templates/faq.html:91
 msgid "delete any comment"
-msgstr ""
+msgstr "あらゆるコメントを削除する"
 
 #: forum/skins/default/templates/faq.html:95
 msgid "delete any questions and answers and perform other moderation tasks"
-msgstr ""
+msgstr "あらゆる質問と回答を削除し、ほかのモデレート作業を実行する"
 
 #: forum/skins/default/templates/faq.html:103
 msgid "how to validate email title"
@@ -1346,15 +1346,15 @@ msgstr ""
 
 #: forum/skins/default/templates/faq.html:116
 msgid "Login now!"
-msgstr ""
+msgstr "ログインできます！"
 
 #: forum/skins/default/templates/faq.html:121
 msgid "Why other people can edit my questions/answers?"
-msgstr ""
+msgstr "なぜ他のひとが私の質問や回答を編集できるのですか？"
 
 #: forum/skins/default/templates/faq.html:122
 msgid "Goal of this site is..."
-msgstr ""
+msgstr "このサイトのゴールは..."
 
 #: forum/skins/default/templates/faq.html:122
 msgid ""
@@ -1394,11 +1394,11 @@ msgstr ""
 
 #: forum/skins/default/templates/feedback.html:6
 msgid "Feedback"
-msgstr ""
+msgstr "フィードバック"
 
 #: forum/skins/default/templates/feedback.html:11
 msgid "Give us your feedback!"
-msgstr ""
+msgstr "あなたのフィードバックをください！"
 
 #: forum/skins/default/templates/feedback.html:17
 #, python-format
@@ -1421,11 +1421,11 @@ msgstr ""
 
 #: forum/skins/default/templates/feedback.html:41
 msgid "(this field is required)"
-msgstr ""
+msgstr "（このフィールドは必須）"
 
 #: forum/skins/default/templates/feedback.html:49
 msgid "Send Feedback"
-msgstr ""
+msgstr "フィードバックを送る"
 
 #: forum/skins/default/templates/feedback_email.txt:3
 #, python-format
@@ -1436,27 +1436,27 @@ msgstr ""
 
 #: forum/skins/default/templates/feedback_email.txt:9
 msgid "Sender is"
-msgstr ""
+msgstr "送信者は"
 
 #: forum/skins/default/templates/feedback_email.txt:11
 #: forum/skins/default/templates/feedback_email.txt:14
 msgid "email"
-msgstr ""
+msgstr "メールアドレス"
 
 #: forum/skins/default/templates/feedback_email.txt:13
 msgid "anonymous"
-msgstr ""
+msgstr "匿名"
 
 #: forum/skins/default/templates/feedback_email.txt:19
 msgid "Message body:"
-msgstr ""
+msgstr "メッセージ本文："
 
 #: forum/skins/default/templates/footer.html:8
 #: forum/skins/default/templates/header.html:13
 #: forum/skins/default/templates/index.html:77
 #: forum/skins/default/templates/index_.html:77
 msgid "about"
-msgstr ""
+msgstr "概要"
 
 #: forum/skins/default/templates/footer.html:9
 #: forum/skins/default/templates/header.html:14
@@ -1464,41 +1464,41 @@ msgstr ""
 #: forum/skins/default/templates/index_.html:78
 #: forum/skins/default/templates/question_edit_tips.html:17
 msgid "faq"
-msgstr ""
+msgstr "よくある質問"
 
 #: forum/skins/default/templates/footer.html:10
 msgid "privacy policy"
-msgstr ""
+msgstr "プライバシーポリシー"
 
 #: forum/skins/default/templates/footer.html:19
 msgid "give feedback"
-msgstr ""
+msgstr "フィードバックする"
 
 #: forum/skins/default/templates/header.html:9
 msgid "logout"
-msgstr ""
+msgstr "ログアウト"
 
 #: forum/skins/default/templates/header.html:11
 msgid "login"
-msgstr ""
+msgstr "ログイン"
 
 #: forum/skins/default/templates/header.html:21
 msgid "back to home page"
-msgstr ""
+msgstr "ホームに戻る"
 
 #: forum/skins/default/templates/header.html:29
 #: forum/skins/default/templates/header.html:57
 msgid "users"
-msgstr ""
+msgstr "ユーザー"
 
 #: forum/skins/default/templates/header.html:31
 msgid "books"
-msgstr ""
+msgstr "ブック"
 
 #: forum/skins/default/templates/header.html:33
 #: forum/templatetags/extra_tags.py:165 forum/templatetags/extra_tags.py:194
 msgid "badges"
-msgstr ""
+msgstr "バッジ"
 
 #: forum/skins/default/templates/header.html:34
 msgid "unanswered questions"
@@ -1506,62 +1506,62 @@ msgstr "unanswered"
 
 #: forum/skins/default/templates/header.html:36
 msgid "ask a question"
-msgstr ""
+msgstr "質問する"
 
 #: forum/skins/default/templates/header.html:51
 msgid "search"
-msgstr ""
+msgstr "検索する"
 
 #: forum/skins/default/templates/index.html:8
 #: forum/skins/default/templates/index_.html:8
 msgid "Home"
-msgstr ""
+msgstr "ホーム"
 
 #: forum/skins/default/templates/index.html:25
 #: forum/skins/default/templates/index_.html:25
 #: forum/skins/default/templates/questions.html:8
 msgid "Questions"
-msgstr ""
+msgstr "質問"
 
 #: forum/skins/default/templates/index.html:27
 #: forum/skins/default/templates/index_.html:27
 msgid "last updated questions"
-msgstr ""
+msgstr "最近更新された質問"
 
 #: forum/skins/default/templates/index.html:27
 #: forum/skins/default/templates/index_.html:27
 #: forum/skins/default/templates/questions.html:47
 msgid "newest"
-msgstr ""
+msgstr "最新"
 
 #: forum/skins/default/templates/index.html:28
 #: forum/skins/default/templates/index_.html:28
 #: forum/skins/default/templates/questions.html:49
 msgid "hottest questions"
-msgstr ""
+msgstr "ホットな質問"
 
 #: forum/skins/default/templates/index.html:28
 #: forum/skins/default/templates/index_.html:28
 #: forum/skins/default/templates/questions.html:49
 msgid "hottest"
-msgstr ""
+msgstr "ホット"
 
 #: forum/skins/default/templates/index.html:29
 #: forum/skins/default/templates/index_.html:29
 #: forum/skins/default/templates/questions.html:50
 msgid "most voted questions"
-msgstr ""
+msgstr "投票の多い質問"
 
 #: forum/skins/default/templates/index.html:29
 #: forum/skins/default/templates/index_.html:29
 #: forum/skins/default/templates/questions.html:50
 msgid "most voted"
-msgstr ""
+msgstr "最も投票された"
 
 #: forum/skins/default/templates/index.html:30
 #: forum/skins/default/templates/index_.html:30
 msgid "all questions"
-msgstr ""
+msgstr "すべての質問"
 
 #: forum/skins/default/templates/index.html:42
 #: forum/skins/default/templates/index_.html:42
@@ -1575,7 +1575,7 @@ msgstr ""
 #: forum/skins/default/templates/questions.html:79
 #: forum/skins/default/templates/users_questions.html:36
 msgid "answers"
-msgstr ""
+msgstr "回答"
 
 #: forum/skins/default/templates/index.html:63
 #: forum/skins/default/templates/index_.html:63
@@ -1585,7 +1585,7 @@ msgstr ""
 #: forum/skins/default/templates/tags.html:49
 #: forum/skins/default/templates/users_questions.html:52
 msgid "see questions tagged"
-msgstr ""
+msgstr "タグ付けされた質問をみる"
 
 #: forum/skins/default/templates/index.html:74
 #: forum/skins/default/templates/index_.html:74
@@ -1595,26 +1595,26 @@ msgstr "Welcome to Q&amp;A forum"
 #: forum/skins/default/templates/index.html:85
 #: forum/skins/default/templates/index_.html:85
 msgid "Recent tags"
-msgstr ""
+msgstr "最新のタグ"
 
 #: forum/skins/default/templates/index.html:90
 #: forum/skins/default/templates/index_.html:90
 #: forum/skins/default/templates/question.html:133
 #, python-format
 msgid "see questions tagged '%(tagname)s'"
-msgstr ""
+msgstr "'%(tagname)s'タグのついた質問をみる"
 
 #: forum/skins/default/templates/index.html:93
 #: forum/skins/default/templates/index.html:121
 #: forum/skins/default/templates/index_.html:93
 #: forum/skins/default/templates/index_.html:121
 msgid "popular tags"
-msgstr "tags"
+msgstr "タグ"
 
 #: forum/skins/default/templates/index.html:98
 #: forum/skins/default/templates/index_.html:98
 msgid "Recent awards"
-msgstr "Recent badges"
+msgstr "最近のバッジ"
 
 #: forum/skins/default/templates/index.html:104
 msgid "given to"
@@ -1623,7 +1623,7 @@ msgstr ""
 #: forum/skins/default/templates/index.html:109
 #: forum/skins/default/templates/index_.html:109
 msgid "all awards"
-msgstr "all badges"
+msgstr "すべてのバッジ"
 
 #: forum/skins/default/templates/index.html:114
 #: forum/skins/default/templates/index_.html:114
@@ -1638,14 +1638,14 @@ msgstr ""
 #: forum/skins/default/templates/index.html:121
 #: forum/skins/default/templates/index_.html:121
 msgid "complete list of questions"
-msgstr "list of all questions"
+msgstr "すべての質問のリスト"
 
 #: forum/skins/default/templates/index.html:121
 #: forum/skins/default/templates/index_.html:121
 #: forum/skins/default/templates/auth/signup.html:28
 #: forum/skins/default/templates/authopenid/signup.html:28
 msgid "or"
-msgstr ""
+msgstr "もしくは"
 
 #: forum/skins/default/templates/index.html:121
 #: forum/skins/default/templates/index_.html:121
@@ -1660,7 +1660,7 @@ msgstr "unanswered questions"
 #: forum/skins/default/templates/logout.html:6
 #: forum/skins/default/templates/logout.html:16
 msgid "Logout"
-msgstr ""
+msgstr "ログアウト"
 
 #: forum/skins/default/templates/logout.html:19
 msgid ""
@@ -1673,7 +1673,7 @@ msgstr ""
 
 #: forum/skins/default/templates/logout.html:20
 msgid "Logout now"
-msgstr "Logout Now"
+msgstr "いまログアウトする"
 
 #: forum/skins/default/templates/notarobot.html:3
 msgid "Please prove that you are a Human Being"
@@ -1681,25 +1681,25 @@ msgstr ""
 
 #: forum/skins/default/templates/notarobot.html:10
 msgid "I am a Human Being"
-msgstr ""
+msgstr "人間です"
 
 #: forum/skins/default/templates/pagesize.html:6
 msgid "posts per page"
-msgstr ""
+msgstr "ページあたりの投稿数"
 
 #: forum/skins/default/templates/paginator.html:6
 #: forum/skins/default/templates/paginator.html:7
 msgid "previous"
-msgstr ""
+msgstr "以前の"
 
 #: forum/skins/default/templates/paginator.html:19
 msgid "current page"
-msgstr ""
+msgstr "現在のページ"
 
 #: forum/skins/default/templates/paginator.html:22
 #: forum/skins/default/templates/paginator.html:29
 msgid "page number "
-msgstr ""
+msgstr "ページ数"
 
 #: forum/skins/default/templates/paginator.html:22
 #: forum/skins/default/templates/paginator.html:29
@@ -1708,7 +1708,7 @@ msgstr ""
 
 #: forum/skins/default/templates/paginator.html:33
 msgid "next page"
-msgstr ""
+msgstr "次のページ"
 
 #: forum/skins/default/templates/post_contributor_info.html:9
 #, python-format
@@ -1725,24 +1725,24 @@ msgstr[1] ""
 
 #: forum/skins/default/templates/post_contributor_info.html:19
 msgid "asked"
-msgstr ""
+msgstr "質問された"
 
 #: forum/skins/default/templates/post_contributor_info.html:22
 msgid "answered"
-msgstr ""
+msgstr "回答された"
 
 #: forum/skins/default/templates/post_contributor_info.html:24
 msgid "posted"
-msgstr ""
+msgstr "投稿された"
 
 #: forum/skins/default/templates/post_contributor_info.html:45
 msgid "updated"
-msgstr ""
+msgstr "更新された"
 
 #: forum/skins/default/templates/privacy.html:6
 #: forum/skins/default/templates/privacy.html:11
 msgid "Privacy policy"
-msgstr ""
+msgstr "プライバシーポリシー"
 
 #: forum/skins/default/templates/privacy.html:15
 msgid "general message about privacy"
@@ -1753,7 +1753,7 @@ msgstr ""
 
 #: forum/skins/default/templates/privacy.html:18
 msgid "Site Visitors"
-msgstr ""
+msgstr "サイト訪問者数"
 
 #: forum/skins/default/templates/privacy.html:20
 msgid "what technical information is collected about visitors"
@@ -1764,7 +1764,7 @@ msgstr ""
 
 #: forum/skins/default/templates/privacy.html:23
 msgid "Personal Information"
-msgstr ""
+msgstr "個人情報"
 
 #: forum/skins/default/templates/privacy.html:25
 msgid "details on personal information policies"
@@ -1775,7 +1775,7 @@ msgstr ""
 
 #: forum/skins/default/templates/privacy.html:28
 msgid "Other Services"
-msgstr ""
+msgstr "他のサービス"
 
 #: forum/skins/default/templates/privacy.html:30
 msgid "details on sharing data with third parties"
@@ -1792,7 +1792,7 @@ msgstr ""
 
 #: forum/skins/default/templates/privacy.html:37
 msgid "Policy Changes"
-msgstr ""
+msgstr "ポリシー変更"
 
 #: forum/skins/default/templates/privacy.html:38
 msgid "how privacy policies can be changed"
@@ -1806,45 +1806,45 @@ msgstr ""
 #: forum/skins/default/templates/question.html:94
 #: forum/skins/default/templates/question.html:96
 msgid "i like this post (click again to cancel)"
-msgstr ""
+msgstr "この投稿は良いと思う（再度クリックでキャンセル）"
 
 #: forum/skins/default/templates/question.html:80
 #: forum/skins/default/templates/question.html:98
 #: forum/skins/default/templates/question.html:255
 msgid "current number of votes"
-msgstr ""
+msgstr "現在の投票数"
 
 #: forum/skins/default/templates/question.html:89
 #: forum/skins/default/templates/question.html:90
 #: forum/skins/default/templates/question.html:103
 #: forum/skins/default/templates/question.html:104
 msgid "i dont like this post (click again to cancel)"
-msgstr ""
+msgstr "この投票は良くない（再度クリックでキャンセル）"
 
 #: forum/skins/default/templates/question.html:108
 #: forum/skins/default/templates/question.html:109
 msgid "mark this question as favorite (click again to cancel)"
-msgstr ""
+msgstr "この質問をお気に入りに登録する（再度クリックでキャンセル）"
 
 #: forum/skins/default/templates/question.html:115
 #: forum/skins/default/templates/question.html:116
 msgid "remove favorite mark from this question (click again to restore mark)"
-msgstr ""
+msgstr "この質問をお気に入りからとりのぞく（再度クリックで再登録）"
 
 #: forum/skins/default/templates/question.html:138
 #: forum/skins/default/templates/question.html:292
 #: forum/skins/default/templates/revisions_answer.html:58
 #: forum/skins/default/templates/revisions_question.html:58
 msgid "edit"
-msgstr ""
+msgstr "編集する"
 
 #: forum/skins/default/templates/question.html:143
 msgid "reopen"
-msgstr ""
+msgstr "再度開く"
 
 #: forum/skins/default/templates/question.html:147
 msgid "close"
-msgstr ""
+msgstr "閉鎖する"
 
 #: forum/skins/default/templates/question.html:153
 #: forum/skins/default/templates/question.html:297
@@ -1855,17 +1855,17 @@ msgstr ""
 #: forum/skins/default/templates/question.html:154
 #: forum/skins/default/templates/question.html:298
 msgid "flag offensive"
-msgstr ""
+msgstr "侮辱的と印を付ける"
 
 #: forum/skins/default/templates/question.html:162
 #: forum/skins/default/templates/question.html:309
 msgid "delete"
-msgstr ""
+msgstr "削除する"
 
 #: forum/skins/default/templates/question.html:180
 #: forum/skins/default/templates/question.html:329
 msgid "delete this comment"
-msgstr ""
+msgstr "このコメントを削除する"
 
 #: forum/skins/default/templates/question.html:191
 #: forum/skins/default/templates/question.html:340
@@ -1927,7 +1927,7 @@ msgstr[1] ""
 
 #: forum/skins/default/templates/question.html:235
 msgid "oldest answers will be shown first"
-msgstr ""
+msgstr "最古の回答が最初に表示されます"
 
 #: forum/skins/default/templates/question.html:235
 msgid "oldest answers"
@@ -1935,7 +1935,7 @@ msgstr "oldest"
 
 #: forum/skins/default/templates/question.html:237
 msgid "newest answers will be shown first"
-msgstr ""
+msgstr "最新の回答が最初に表示されます"
 
 #: forum/skins/default/templates/question.html:237
 msgid "newest answers"
@@ -1943,7 +1943,7 @@ msgstr "newest"
 
 #: forum/skins/default/templates/question.html:239
 msgid "most voted answers will be shown first"
-msgstr ""
+msgstr "もっとも投票された回答が最初に表示されます"
 
 #: forum/skins/default/templates/question.html:239
 msgid "popular answers"
@@ -1971,7 +1971,7 @@ msgstr ""
 
 #: forum/skins/default/templates/question.html:286
 msgid "answer permanent link"
-msgstr ""
+msgstr "回答のパーマリンク"
 
 #: forum/skins/default/templates/question.html:287
 msgid "permanent link"
@@ -2134,7 +2134,7 @@ msgstr "provide enough details"
 #: forum/skins/default/templates/question_retag.html:4
 #: forum/skins/default/templates/question_retag.html:53
 msgid "Change tags"
-msgstr ""
+msgstr "タグを変更する"
 
 #: forum/skins/default/templates/question_retag.html:40
 msgid "up to 5 tags, less than 20 characters each"
@@ -2397,7 +2397,7 @@ msgstr ""
 #: forum/skins/default/templates/tag_selector.html:20
 #: forum/skins/default/templates/tag_selector.html:37
 msgid "Add"
-msgstr ""
+msgstr "追加する"
 
 #: forum/skins/default/templates/tag_selector.html:21
 msgid "Ignored tags"
@@ -2415,7 +2415,7 @@ msgstr ""
 #: forum/skins/default/templates/tags.html:6
 #: forum/skins/default/templates/tags.html:30
 msgid "Tag list"
-msgstr ""
+msgstr "タグリスト"
 
 #: forum/skins/default/templates/tags.html:32
 msgid "sorted alphabetically"
@@ -2423,7 +2423,7 @@ msgstr ""
 
 #: forum/skins/default/templates/tags.html:32
 msgid "by name"
-msgstr ""
+msgstr "名前順"
 
 #: forum/skins/default/templates/tags.html:33
 msgid "sorted by frequency of tag use"
@@ -2431,7 +2431,7 @@ msgstr ""
 
 #: forum/skins/default/templates/tags.html:33
 msgid "by popularity"
-msgstr ""
+msgstr "人気順"
 
 #: forum/skins/default/templates/tags.html:39
 msgid "All tags matching query"
@@ -2443,7 +2443,7 @@ msgstr ""
 
 #: forum/skins/default/templates/tags.html:42
 msgid "Nothing found"
-msgstr ""
+msgstr "何もみつからない"
 
 #: forum/skins/default/templates/user_edit.html:6
 msgid "Edit user profile"
@@ -2451,7 +2451,7 @@ msgstr ""
 
 #: forum/skins/default/templates/user_edit.html:19
 msgid "edit profile"
-msgstr ""
+msgstr "プロファイルを編集する"
 
 #: forum/skins/default/templates/user_edit.html:31
 msgid "image associated with your email address"
@@ -2465,20 +2465,20 @@ msgstr "<a href='%(gravatar_faq_url)s'>gravatar</a>"
 #: forum/skins/default/templates/user_edit.html:36
 #: forum/skins/default/templates/user_info.html:60
 msgid "Registered user"
-msgstr ""
+msgstr "登録ユーザー"
 
 #: forum/skins/default/templates/user_edit.html:43
 msgid "Screen Name"
-msgstr ""
+msgstr "スクリーン名"
 
 #: forum/skins/default/templates/user_edit.html:86
 #: forum/skins/default/templates/user_email_subscriptions.html:20
 msgid "Update"
-msgstr ""
+msgstr "更新する"
 
 #: forum/skins/default/templates/user_email_subscriptions.html:8
 msgid "Email subscription settings"
-msgstr ""
+msgstr "メール登録設定"
 
 #: forum/skins/default/templates/user_email_subscriptions.html:9
 msgid "email subscription settings info"
@@ -2496,19 +2496,19 @@ msgstr "Stop Email"
 #: forum/skins/default/templates/user_info.html:22
 #: forum/skins/default/templates/users.html:26 forum/views/users.py:916
 msgid "reputation"
-msgstr "karma"
+msgstr "信用度"
 
 #: forum/skins/default/templates/user_info.html:32
 msgid "Moderate this user"
-msgstr ""
+msgstr "このユーザーをモデレートする"
 
 #: forum/skins/default/templates/user_info.html:45
 msgid "update profile"
-msgstr ""
+msgstr "プロファイルを更新する"
 
 #: forum/skins/default/templates/user_info.html:64
 msgid "real name"
-msgstr ""
+msgstr "実名"
 
 #: forum/skins/default/templates/user_info.html:69
 msgid "member for"
@@ -2516,19 +2516,19 @@ msgstr "member since"
 
 #: forum/skins/default/templates/user_info.html:74
 msgid "last seen"
-msgstr ""
+msgstr "最後に見たもの"
 
 #: forum/skins/default/templates/user_info.html:80
 msgid "user website"
-msgstr ""
+msgstr "ユーザーのウェブサイト"
 
 #: forum/skins/default/templates/user_info.html:86
 msgid "location"
-msgstr ""
+msgstr "場所"
 
 #: forum/skins/default/templates/user_info.html:93
 msgid "age"
-msgstr ""
+msgstr "年齢"
 
 #: forum/skins/default/templates/user_info.html:94
 msgid "age unit"
@@ -2657,15 +2657,15 @@ msgstr[1] ""
 
 #: forum/skins/default/templates/user_tabs.html:7
 msgid "User profile"
-msgstr ""
+msgstr "ユーザープロファイル"
 
 #: forum/skins/default/templates/user_tabs.html:7 forum/views/users.py:890
 msgid "overview"
-msgstr ""
+msgstr "概略"
 
 #: forum/skins/default/templates/user_tabs.html:9 forum/views/users.py:898
 msgid "recent activity"
-msgstr ""
+msgstr "最近の活動"
 
 #: forum/skins/default/templates/user_tabs.html:12 forum/views/users.py:908
 msgid "comments and answers to others questions"
@@ -2673,7 +2673,7 @@ msgstr ""
 
 #: forum/skins/default/templates/user_tabs.html:13 forum/views/users.py:907
 msgid "responses"
-msgstr ""
+msgstr "反応"
 
 #: forum/skins/default/templates/user_tabs.html:16
 msgid "graph of user reputation"
@@ -2681,7 +2681,7 @@ msgstr "Graph of user karma"
 
 #: forum/skins/default/templates/user_tabs.html:17
 msgid "reputation history"
-msgstr "karma history"
+msgstr "信用度履歴"
 
 #: forum/skins/default/templates/user_tabs.html:20 forum/views/users.py:934
 msgid "user vote record"
@@ -2697,7 +2697,7 @@ msgstr ""
 
 #: forum/skins/default/templates/user_tabs.html:24
 msgid "favorites"
-msgstr ""
+msgstr "お気に入り"
 
 #: forum/skins/default/templates/user_tabs.html:27 forum/views/users.py:943
 msgid "email subscription settings"
@@ -2905,17 +2905,17 @@ msgstr ""
 #: forum/skins/default/templates/auth/signin.html:158
 #: forum/skins/default/templates/authopenid/signin.html:178
 msgid "Get OpenID"
-msgstr ""
+msgstr "OpenIDを取得する"
 
 #: forum/skins/default/templates/auth/signup.html:4
 #: forum/skins/default/templates/authopenid/signup.html:4
 msgid "Signup"
-msgstr ""
+msgstr "サインアップする"
 
 #: forum/skins/default/templates/auth/signup.html:8
 #: forum/skins/default/templates/authopenid/signup.html:8
 msgid "Create login name and password"
-msgstr ""
+msgstr "ログイン名とパスワードを作成する"
 
 #: forum/skins/default/templates/auth/signup.html:10
 #: forum/skins/default/templates/authopenid/signup.html:10
@@ -3451,15 +3451,15 @@ msgstr ""
 
 #: forum/views/commands.py:225
 msgid "email update frequency has been set to daily"
-msgstr ""
+msgstr "メール更新頻度が日刊に設定されました。"
 
 #: forum/views/meta.py:34
 msgid "Q&A forum feedback"
-msgstr ""
+msgstr "QAフォーラムフィードバック"
 
 #: forum/views/meta.py:35
 msgid "Thanks for the feedback!"
-msgstr ""
+msgstr "ご意見ありがとうございます！"
 
 #: forum/views/meta.py:43
 msgid "We look forward to hearing your feedback! Please, give it next time :)"
@@ -3467,31 +3467,31 @@ msgstr ""
 
 #: forum/views/users.py:851 forum/views/users.py:855
 msgid "changes saved"
-msgstr ""
+msgstr "変更が保存されました"
 
 #: forum/views/users.py:861
 msgid "email updates canceled"
-msgstr ""
+msgstr "メール更新がキャンセルされました"
 
 #: forum/views/users.py:891
 msgid "user profile"
-msgstr ""
+msgstr "ユーザプロファイル"
 
 #: forum/views/users.py:892
 msgid "user profile overview"
-msgstr ""
+msgstr "ユーザプロファイル概略"
 
 #: forum/views/users.py:899
 msgid "recent user activity"
-msgstr ""
+msgstr "最近のユーザの活動"
 
 #: forum/views/users.py:900
 msgid "profile - recent activity"
-msgstr ""
+msgstr "プロファイル：最近の活動"
 
 #: forum/views/users.py:909
 msgid "profile - responses"
-msgstr ""
+msgstr "プロファイル：応答"
 
 #: forum/views/users.py:917
 msgid "user reputation in the community"
@@ -3503,27 +3503,27 @@ msgstr "Profile - User's Karma"
 
 #: forum/views/users.py:924
 msgid "favorite questions"
-msgstr ""
+msgstr "お気に入りの質問"
 
 #: forum/views/users.py:925
 msgid "users favorite questions"
-msgstr ""
+msgstr "ユーザのお気に入りの質問"
 
 #: forum/views/users.py:926
 msgid "profile - favorite questions"
-msgstr ""
+msgstr "プロファイル：お気に入りの質問"
 
 #: forum/views/users.py:935
 msgid "profile - votes"
-msgstr ""
+msgstr "プロファイル：投票"
 
 #: forum/views/users.py:944
 msgid "profile - email subscriptions"
-msgstr ""
+msgstr "プロファイル：メール登録など"
 
 #: forum/views/users.py:977
 msgid "Password changed."
-msgstr ""
+msgstr "パスワードが変更されました。"
 
 #: forum/views/writers.py:74
 msgid "uploading images is limited to users with >60 reputation points"
@@ -3531,18 +3531,18 @@ msgstr "sorry, file uploading requires karma >60"
 
 #: forum/views/writers.py:76
 msgid "allowed file types are 'jpg', 'jpeg', 'gif', 'bmp', 'png', 'tiff'"
-msgstr ""
+msgstr "許可されているファイルタイプは 'jpg'、'jpeg'、'gif'、'bmp'、'png'と'tiff'です。"
 
 #: forum/views/writers.py:78
 #, python-format
 msgid "maximum upload file size is %sK"
-msgstr ""
+msgstr "最大アップロードファイルサイズは %sK です。"
 
 #: forum/views/writers.py:80
 #, python-format
 msgid ""
 "Error uploading file. Please contact the site administrator. Thank you. %s"
-msgstr ""
+msgstr "ファイルアップロードエラー：サイト管理者に連絡してください。ご協力ありがとうございます。"
 
 #: forum_modules/books/urls.py:7 forum_modules/books/urls.py:8
 #: forum_modules/books/urls.py:9
@@ -3566,27 +3566,27 @@ msgstr ""
 
 #: forum_modules/localauth/forms.py:59
 msgid "Please enter valid username and password (both are case-sensitive)."
-msgstr ""
+msgstr "有効なユーザ名とパスワードを入力してください（どちらも大文字小文字がくべつされます）。"
 
 #: forum_modules/localauth/forms.py:62
 msgid "This account is inactive."
-msgstr ""
+msgstr "このアカウントは無効です"
 
 #: forum_modules/localauth/forms.py:64
 msgid "Login failed."
-msgstr ""
+msgstr "ログインに失敗しました"
 
 #: forum_modules/localauth/forms.py:66
 msgid "Please enter username and password"
-msgstr ""
+msgstr "ユーザ名とパスワードを入力してください"
 
 #: forum_modules/localauth/forms.py:68
 msgid "Please enter your password"
-msgstr ""
+msgstr "パスワードを入力してください"
 
 #: forum_modules/localauth/forms.py:70
 msgid "Please enter user name"
-msgstr ""
+msgstr "ユーザ名を入力してください"
 
 #: forum_modules/localauth/urls.py:7
 msgid "local/"
@@ -3594,27 +3594,27 @@ msgstr ""
 
 #: forum_modules/oauthauth/consumer.py:33
 msgid "Error, the oauth token is not on the server"
-msgstr ""
+msgstr "エラー。OAuthトークンがありません"
 
 #: forum_modules/oauthauth/consumer.py:38
 msgid "Something went wrong! Auth tokens do not match"
-msgstr ""
+msgstr "なにか悪いようです。認証トークンが一致しません。"
 
 #: forum_modules/openidauth/consumer.py:40
 msgid "Sorry, but your input is not a valid OpenId"
-msgstr ""
+msgstr "残念ながら、入力されたOpenIDが有効なものではありませんでした"
 
 #: forum_modules/openidauth/consumer.py:92
 msgid "The OpenId authentication request was canceled"
-msgstr ""
+msgstr "OpenID 認証リクエストがキャンセルされました"
 
 #: forum_modules/openidauth/consumer.py:94
 msgid "The OpenId authentication failed: "
-msgstr ""
+msgstr "OpenID 認証に失敗しました："
 
 #: forum_modules/openidauth/consumer.py:96
 msgid "Setup needed"
-msgstr ""
+msgstr "セットアップが必要です"
 
 #: forum_modules/openidauth/consumer.py:98
 msgid "The OpenId authentication failed with an unknown status: "
@@ -3622,7 +3622,7 @@ msgstr ""
 
 #: forum_modules/openidauth/templates/openidurl.html:7
 msgid "Enter your OpenId Url"
-msgstr ""
+msgstr "あなたのOpenID URLを入力してください"
 
 #~ msgid "Incorrect username."
 #~ msgstr "sorry, there is no such user name"

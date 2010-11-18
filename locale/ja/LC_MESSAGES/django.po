@@ -2404,7 +2404,7 @@ msgstr ""
 
 #: forum/skins/default/templates/tag_selector.html:4
 msgid "Interesting tags"
-msgstr ""
+msgstr "興味あるタグ"
 
 #: forum/skins/default/templates/tag_selector.html:14
 #, python-format
@@ -2418,7 +2418,7 @@ msgstr "追加する"
 
 #: forum/skins/default/templates/tag_selector.html:21
 msgid "Ignored tags"
-msgstr ""
+msgstr "表示しないタグ"
 
 #: forum/skins/default/templates/tag_selector.html:31
 #, python-format

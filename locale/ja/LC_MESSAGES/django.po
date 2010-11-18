@@ -1098,6 +1098,10 @@ msgstr "回数"
 msgid "votes"
 msgstr "投票"
 
+#:
+msgid "vote"
+msgstr "投票"
+
 #: forum/skins/default/templates/book.html:108
 msgid "the answer has been accepted to be correct"
 msgstr ""
@@ -1109,6 +1113,9 @@ msgstr ""
 #: forum/skins/default/templates/questions.html:81
 #: forum/skins/default/templates/users_questions.html:40
 msgid "views"
+msgstr "ビュー"
+#:
+msgid "view"
 msgstr "ビュー"
 
 #: forum/skins/default/templates/book.html:125
@@ -1546,6 +1553,10 @@ msgstr "ホットな質問"
 msgid "hottest"
 msgstr "ホット"
 
+#:
+msgid "relevance"
+msgstr "関連"
+
 #: forum/skins/default/templates/index.html:29
 #: forum/skins/default/templates/index_.html:29
 #: forum/skins/default/templates/questions.html:50
@@ -1556,7 +1567,7 @@ msgstr "投票の多い質問"
 #: forum/skins/default/templates/index_.html:29
 #: forum/skins/default/templates/questions.html:50
 msgid "most voted"
-msgstr "最も投票された"
+msgstr "注目の質問"
 
 #: forum/skins/default/templates/index.html:30
 #: forum/skins/default/templates/index_.html:30

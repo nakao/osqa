@@ -1725,19 +1725,19 @@ msgstr[1] ""
 
 #: forum/skins/default/templates/post_contributor_info.html:19
 msgid "asked"
-msgstr "質問された"
+msgstr "質問日"
 
 #: forum/skins/default/templates/post_contributor_info.html:22
 msgid "answered"
-msgstr "回答された"
+msgstr "回答日"
 
 #: forum/skins/default/templates/post_contributor_info.html:24
 msgid "posted"
-msgstr "投稿された"
+msgstr "投稿日"
 
 #: forum/skins/default/templates/post_contributor_info.html:45
 msgid "updated"
-msgstr "更新された"
+msgstr "更新日"
 
 #: forum/skins/default/templates/privacy.html:6
 #: forum/skins/default/templates/privacy.html:11
@@ -1923,7 +1923,13 @@ msgid_plural ""
 "                    %(counter)s Answers:\n"
 "                    "
 msgstr[0] ""
+"\n"
+"                    回答：\n"
+"                    "
 msgstr[1] ""
+"\n"
+"                    %(counter)個の回答：\n"
+"                    "
 
 #: forum/skins/default/templates/question.html:235
 msgid "oldest answers will be shown first"
@@ -2047,7 +2053,7 @@ msgstr ""
 
 #: forum/skins/default/templates/question.html:407
 msgid "Be the first one to answer this question!"
-msgstr ""
+msgstr "この質問のはじめての回答になります！"
 
 #: forum/skins/default/templates/question.html:413
 msgid "you can answer anonymously and then login"
@@ -2084,7 +2090,7 @@ msgstr ""
 
 #: forum/skins/default/templates/question.html:458
 msgid "Answer Your Own Question"
-msgstr ""
+msgstr "あなた自身の質問に回答する"
 
 #: forum/skins/default/templates/question.html:460
 msgid "Answer the question"
@@ -2092,23 +2098,23 @@ msgstr "Post Your Answer"
 
 #: forum/skins/default/templates/question.html:473
 msgid "Question tags"
-msgstr "Tags"
+msgstr "タグ"
 
 #: forum/skins/default/templates/question.html:483
 msgid "question asked"
-msgstr "Asked"
+msgstr "質問日"
 
 #: forum/skins/default/templates/question.html:486
 msgid "question was seen"
-msgstr "Seen"
+msgstr "閲覧数"
 
 #: forum/skins/default/templates/question.html:486
 msgid "times"
-msgstr ""
+msgstr "回"
 
 #: forum/skins/default/templates/question.html:489
 msgid "last updated"
-msgstr "Last updated"
+msgstr "最終更新日"
 
 #: forum/skins/default/templates/question.html:494
 msgid "Related questions"
@@ -2154,11 +2160,11 @@ msgstr ""
 
 #: forum/skins/default/templates/questions.html:29
 msgid "Found by tags"
-msgstr "Tagged questions"
+msgstr "タグ付けられた質問"
 
 #: forum/skins/default/templates/questions.html:33
 msgid "Search results"
-msgstr ""
+msgstr "検索結果"
 
 #: forum/skins/default/templates/questions.html:35
 msgid "Found by title"
@@ -2166,11 +2172,11 @@ msgstr ""
 
 #: forum/skins/default/templates/questions.html:39
 msgid "Unanswered questions"
-msgstr ""
+msgstr "未回答質問"
 
 #: forum/skins/default/templates/questions.html:41
 msgid "All questions"
-msgstr ""
+msgstr "すべての質問"
 
 #: forum/skins/default/templates/questions.html:47
 msgid "most recently asked questions"
@@ -2187,12 +2193,12 @@ msgstr ""
 #: forum/skins/default/templates/questions.html:111
 #: forum/skins/default/templates/questions.html:125
 msgid "Posted:"
-msgstr ""
+msgstr "投稿日："
 
 #: forum/skins/default/templates/questions.html:114
 #: forum/skins/default/templates/questions.html:119
 msgid "Updated:"
-msgstr ""
+msgstr "更新日："
 
 #: forum/skins/default/templates/questions.html:144
 msgid "Did not find anything?"
@@ -2698,6 +2704,10 @@ msgstr ""
 #: forum/skins/default/templates/user_tabs.html:24
 msgid "favorites"
 msgstr "お気に入り"
+
+#: forum/skins/default/templates/node/comemnts.html:
+msgid "add new comment"
+msgstr "コメントを追加する"
 
 #: forum/skins/default/templates/user_tabs.html:27 forum/views/users.py:943
 msgid "email subscription settings"

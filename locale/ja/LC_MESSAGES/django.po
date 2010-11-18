@@ -2731,19 +2731,19 @@ msgstr ""
 #: forum/skins/default/templates/users.html:6
 #: forum/skins/default/templates/users.html:24
 msgid "Users"
-msgstr ""
+msgstr "ユーザー"
 
 #: forum/skins/default/templates/users.html:27
 msgid "recent"
-msgstr ""
+msgstr "新規登録順"
 
 #: forum/skins/default/templates/users.html:28
 msgid "oldest"
-msgstr ""
+msgstr "登録順"
 
 #: forum/skins/default/templates/users.html:29
 msgid "by username"
-msgstr ""
+msgstr "ユーザー名順"
 
 #: forum/skins/default/templates/users.html:35
 #, python-format

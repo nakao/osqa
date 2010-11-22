@@ -218,8 +218,8 @@ msgid ""
 msgstr "タグは短いキーワードで空白文字（スペース）は含めません。５つまでのタグが使用できます。"
 #
 msgid ""
-"Tags are short keywords, with no spaces within. At least 1 and up to five tags can be used."
-msgstr "タグは短いキーワードで空白文字（スペース）は含めません。少なくとも１つから５つまでのタグが使用できます。"
+"Tags are short keywords, with no spaces within. At least 1 and up to 5 tags can be used."
+msgstr "タグは短いキーワードで空白文字（スペース）は含めません。少なくとも１つ、そして５つまでのタグが使用できます。"
 
 #: forum/forms.py:62 forum/skins/default/templates/question_retag.html:39
 msgid "tags are required"
@@ -2174,7 +2174,7 @@ msgstr "CNPROG コミュニティーに適した質問をしましょう。"
 
 #: forum/skins/default/templates/question_edit_tips.html:10
 msgid "please try provide enough details"
-msgstr "十分な詳細を提供しましょう。"
+msgstr "十分にくわしくしましょう。"
 
 #: forum/skins/default/templates/question_retag.html:4
 #: forum/skins/default/templates/question_retag.html:53
@@ -2183,7 +2183,7 @@ msgstr "タグを変更する"
 
 #: forum/skins/default/templates/question_retag.html:40
 msgid "up to 5 tags, less than 20 characters each"
-msgstr "５タグまで、20文字未満"
+msgstr "５タグまで、２０文字未満"
 
 #: forum/skins/default/templates/question_retag.html:83
 msgid "Why use and modify tags?"
@@ -2223,6 +2223,11 @@ msgstr "すべての質問"
 #:
 msgid "All Questions"
 msgstr "すべての質問"
+
+#:
+msgid "Questions Tagged With %(tagname)"
+msgstr "%(tagname)タグつけられた質問"
+
 
 #: forum/skins/default/templates/questions.html:47
 msgid "most recently asked questions"
@@ -2394,7 +2399,7 @@ msgstr "タグ"
 #: forum/skins/default/templates/tag_selector.html:27
 #, python-format
 msgid "see questions tagged '%(tag_name)s'"
-msgstr ""
+msgstr "'%(tag_name)s'タグづけられた質問をみる"
 
 #: forum/skins/default/templates/reopen.html:6
 #: forum/skins/default/templates/reopen.html:16

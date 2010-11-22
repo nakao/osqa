@@ -2826,11 +2826,11 @@ msgstr ""
 
 #: forum/skins/default/templates/users.html:39
 msgid "Nothing found."
-msgstr ""
+msgstr "何も見付かりませんでした"
 
 #: forum/skins/default/templates/users_questions.html:11
 msgid "this questions was selected as favorite"
-msgstr ""
+msgstr "この質問はお気に入りに選ばれました"
 
 #: forum/skins/default/templates/users_questions.html:12
 msgid "thumb-up on"
@@ -2843,12 +2843,12 @@ msgstr ""
 #: forum/skins/default/templates/auth/complete.html:5
 #: forum/skins/default/templates/authopenid/complete.html:19
 msgid "Connect your OpenID with this site"
-msgstr "New user signup"
+msgstr "新規ユーザサインアップ"
 
 #: forum/skins/default/templates/auth/complete.html:8
 #: forum/skins/default/templates/authopenid/complete.html:22
 msgid "Connect your OpenID with your account on this site"
-msgstr "New user signup"
+msgstr "新規ユーザサインアップ"
 
 #: forum/skins/default/templates/auth/complete.html:12
 msgid "You are here for the first time with "
@@ -2864,23 +2864,23 @@ msgstr ""
 #: forum/skins/default/templates/auth/complete.html:15
 #: forum/skins/default/templates/authopenid/complete.html:42
 msgid "This account already exists, please use another."
-msgstr ""
+msgstr "このアカウントはすでに存在しています。他のを使ってください。"
 
 #: forum/skins/default/templates/auth/complete.html:30
 #: forum/skins/default/templates/authopenid/complete.html:57
 msgid "Sorry, looks like we have some errors:"
-msgstr ""
+msgstr "申し訳ございません、いくつか問題があるようです："
 
 #: forum/skins/default/templates/auth/complete.html:47
 #: forum/skins/default/templates/authopenid/complete.html:82
 msgid "Screen name label"
-msgstr "<strong>Screen Name</strong> (<i>will be shown to others</i>)"
+msgstr "<strong>スクリーン名</strong> (<i>他のひとに表示されます</i>)"
 
 #: forum/skins/default/templates/auth/complete.html:54
 #: forum/skins/default/templates/authopenid/complete.html:89
 msgid "Email address label"
 msgstr ""
-"<strong>Email Address</strong> (<i>will <strong>not</strong> be shared with "
+"<strong>電子メールアドレス</strong> (<i>will <strong>not</strong> be shared with "
 "anyone, must be valid</i>)"
 
 #: forum/skins/default/templates/auth/complete.html:60

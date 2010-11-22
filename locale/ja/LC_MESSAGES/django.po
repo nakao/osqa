@@ -3822,12 +3822,34 @@ msgstr "管理メニュー"
 msgid "Asked a question with %s views"
 msgstr ""
 
+msgid "Famous Question"
+msgstr "著名な質問"
+
+msgid "Popular Question"
+msgstr "人気の質問"
+
+msgid "Notable Question"
+msgstr "卓越した質問"
+
+
+
+
 #: forum_modules/default_badges/badges.py:39
 #: forum_modules/default_badges/badges.py:53
 #: forum_modules/default_badges/badges.py:67
 #, fuzzy, python-format
 msgid "Answer voted up %s times"
 msgstr "Post Your Answer"
+
+msgid "Great Answer"
+msgstr "偉大な回答"
+
+msgid "Good Answer"
+msgstr "良い回答"
+
+msgid "Nice Answer"
+msgstr "ナイス回答"
+
 
 #: forum_modules/default_badges/badges.py:46
 #: forum_modules/default_badges/badges.py:60
@@ -3836,11 +3858,26 @@ msgstr "Post Your Answer"
 msgid "Question voted up %s times"
 msgstr ""
 
+msgid "Great Question"
+msgstr "偉大な質問"
+
+msgid "Good Question"
+msgstr "良い質問"
+
+msgid "Nice Question"
+msgstr "ナイス質問"
+
+
+
 #: forum_modules/default_badges/badges.py:82
 #: forum_modules/default_badges/badges.py:89
 #, python-format
 msgid "Question favorited by %s users"
 msgstr ""
+
+msgid "Favorite Question"
+msgstr "お気に入りの質問"
+
 
 #: forum_modules/default_badges/badges.py:97
 #, python-format
@@ -3925,6 +3962,11 @@ msgstr "市民の義務"
 msgid "Left %s comments"
 msgstr ""
 
+msgid "Pundit"
+msgstr "評論家"
+
+
+
 #: forum_modules/default_badges/badges.py:192
 #, fuzzy, python-format
 msgid "Answered your own question with at least %s up votes"
@@ -3958,15 +4000,27 @@ msgstr "教師"
 msgid "First answer was accepted with at least %s up votes"
 msgstr ""
 
+msgid "Enlightened"
+msgstr "啓蒙されている"
+
+
 #: forum_modules/default_badges/badges.py:271
 #, python-format
 msgid "Accepted answer and voted up %s times"
 msgstr ""
 
+msgid "Guru"
+msgstr "導師"
+
+
 #: forum_modules/default_badges/badges.py:282
 #, python-format
 msgid "Answered a question more than %(dif_days)s days later with at least %(up_votes)s votes"
 msgstr ""
+
+msgid "Necromancer"
+msgstr "ネクロマンサー"
+
 
 #: forum_modules/default_badges/badges.py:295
 #, python-format
@@ -3979,6 +4033,7 @@ msgstr "体系学者"
 #: forum_modules/default_badges/settings.py:6
 msgid "Popular Question views"
 msgstr ""
+
 
 #: forum_modules/default_badges/settings.py:7
 msgid ""

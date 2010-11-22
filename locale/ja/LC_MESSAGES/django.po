@@ -986,8 +986,6 @@ msgstr "バッジ"
 #: forum/skins/default/templates/badges.html:21
 msgid "Community gives you awards for your questions, answers and votes."
 msgstr ""
-"If your questions and answers are highly voted, your contribution to this "
-"Q&amp;A community will be recognized with the variety of badges."
 "質問と回答が高く投票されると、Q&amp;Aコミュニティーへの貢献がさまざまなバッジで認識されます。"
 
 #: forum/skins/default/templates/badges.html:22
@@ -1012,16 +1010,12 @@ msgstr "バッジレベル"
 #: forum/skins/default/templates/badges.html:56
 msgid "gold badge description"
 msgstr ""
-"Gold badge is the highest award in this community. To obtain it have to show "
-"profound knowledge and ability in addition to your active participation."
-"金バッジはこのコミュニティーの最高の栄誉です。活発な参加にくわえて、深い知識と能力を示したことによってそれは得られます。"
+"金バッジはこのコミュニティーの最高の栄誉です。活発な参加にくわえて、深い洞察と知識、実行力を示したことによってそれは得られます。"
 
 #: forum/skins/default/templates/badges.html:64
 msgid "silver badge description"
 msgstr ""
-"Obtaining silver badge requires significant patience. If you have received "
-"one, that means you have greatly contributed to this community."
-"銀バッジを得るには、著しい勤勉さが必要です。得る事ができたなら、それはこのコミュニティーへの献身的な貢献を意味しています。"
+"銀バッジを得るには、著しい勤勉さが必要です。得る事ができたなら、それはこのコミュニティーへの偉大な貢献を意味しています。"
 
 #: forum/skins/default/templates/badges.html:67
 msgid "bronze badge: often given as a special honor"
@@ -1030,9 +1024,7 @@ msgstr ""
 #: forum/skins/default/templates/badges.html:71
 msgid "bronze badge description"
 msgstr ""
-"If you are an active participant in this community, you will be recognized "
-"with this badge."
-"このコミュニティーの活動的な参加者であるなら、このバッジで認識されます。"
+"このコミュニティーの活動的な参加者であるなら、このバッジで認定されます。"
 
 #: forum/skins/default/templates/book.html:7
 msgid "reading channel"
@@ -2987,29 +2979,28 @@ msgstr "なぜOpenIDをつかうのか？"
 #: forum/skins/default/templates/auth/signin.html:143
 #: forum/skins/default/templates/authopenid/signin.html:163
 msgid "with openid it is easier"
-msgstr "With the OpenID you don't need to create new username and password."
+msgstr "OpenIDをつかうと、あらたにユーザ名とパスワードを作る必要がありません。"
 
 #: forum/skins/default/templates/auth/signin.html:146
 #: forum/skins/default/templates/authopenid/signin.html:166
 msgid "reuse openid"
-msgstr "You can safely re-use the same login for all OpenID-enabled websites."
+msgstr "すべてのOpenID対応ウェブサイトでおなじログインを安全に再利用できます。"
 
 #: forum/skins/default/templates/auth/signin.html:149
 #: forum/skins/default/templates/authopenid/signin.html:169
 msgid "openid is widely adopted"
 msgstr ""
-"There are > 160,000,000 OpenID account in use. Over 10,000 sites are OpenID-"
-"enabled."
+"すでに多数のウェブサイトでOpenIDアカウントが利用されています。"
 
 #: forum/skins/default/templates/auth/signin.html:152
 #: forum/skins/default/templates/authopenid/signin.html:172
 msgid "openid is supported open standard"
-msgstr "OpenID is based on an open standard, supported by many organizations."
+msgstr "OpenIDは、多くの組織がサポートしているオープンスタンダードに基づいています。"
 
 #: forum/skins/default/templates/auth/signin.html:157
 #: forum/skins/default/templates/authopenid/signin.html:177
 msgid "Find out more"
-msgstr ""
+msgstr "より詳しく知るには"
 
 #: forum/skins/default/templates/auth/signin.html:158
 #: forum/skins/default/templates/authopenid/signin.html:178
@@ -3098,7 +3089,7 @@ msgstr ""
 
 #: forum/skins/default/templates/authopenid/changeemail.html:49
 msgid "Validate email"
-msgstr ""
+msgstr "電子メールを有効にする"
 
 #: forum/skins/default/templates/authopenid/changeemail.html:52
 #, python-format
@@ -3113,7 +3104,7 @@ msgstr ""
 
 #: forum/skins/default/templates/authopenid/changeemail.html:57
 msgid "Email not changed"
-msgstr ""
+msgstr "電子メールは変更されませんでした"
 
 #: forum/skins/default/templates/authopenid/changeemail.html:60
 #, python-format
@@ -3126,7 +3117,7 @@ msgstr ""
 
 #: forum/skins/default/templates/authopenid/changeemail.html:65
 msgid "Email changed"
-msgstr ""
+msgstr "電子メールは変更されました"
 
 #: forum/skins/default/templates/authopenid/changeemail.html:68
 #, python-format
@@ -3139,7 +3130,7 @@ msgstr ""
 
 #: forum/skins/default/templates/authopenid/changeemail.html:73
 msgid "Email verified"
-msgstr ""
+msgstr "電子メールは確証されました"
 
 #: forum/skins/default/templates/authopenid/changeemail.html:76
 msgid "thanks for verifying email"
@@ -3164,7 +3155,7 @@ msgstr ""
 
 #: forum/skins/default/templates/authopenid/changeopenid.html:8
 msgid "Account: change OpenID URL"
-msgstr ""
+msgstr "アカウント：OpenID URLを変更する"
 
 #: forum/skins/default/templates/authopenid/changeopenid.html:12
 msgid ""
@@ -3175,7 +3166,7 @@ msgstr ""
 #: forum/skins/default/templates/authopenid/delete.html:14
 #: forum/skins/default/templates/authopenid/delete.html:24
 msgid "Please correct errors below:"
-msgstr ""
+msgstr "次のエラーを正してください："
 
 #: forum/skins/default/templates/authopenid/changeopenid.html:29
 msgid "OpenID URL:"
@@ -3236,11 +3227,11 @@ msgstr ""
 
 #: forum/skins/default/templates/authopenid/confirm_email.txt:2
 msgid "Thank you for registering at our Q&A forum!"
-msgstr ""
+msgstr "Q&amp;Aフォーラムに登録いただきありがとうございます！"
 
 #: forum/skins/default/templates/authopenid/confirm_email.txt:4
 msgid "Your account details are:"
-msgstr ""
+msgstr "アカウントの詳細："
 
 #: forum/skins/default/templates/authopenid/confirm_email.txt:6
 msgid "Username:"
@@ -3267,7 +3258,7 @@ msgstr ""
 
 #: forum/skins/default/templates/authopenid/delete.html:8
 msgid "Account: delete account"
-msgstr ""
+msgstr "アカウント：アカウントを消去する"
 
 #: forum/skins/default/templates/authopenid/delete.html:12
 msgid ""
@@ -3285,19 +3276,19 @@ msgstr ""
 
 #: forum/skins/default/templates/authopenid/delete.html:32
 msgid "Password/OpenID URL"
-msgstr ""
+msgstr "パスワード／OpenID URL"
 
 #: forum/skins/default/templates/authopenid/delete.html:32
 msgid "(required for your security)"
-msgstr ""
+msgstr "（セキュリティのために必須です）"
 
 #: forum/skins/default/templates/authopenid/delete.html:34
 msgid "Delete account permanently"
-msgstr ""
+msgstr "アカウントを永遠に消去する"
 
 #: forum/skins/default/templates/authopenid/email_validation.txt:2
 msgid "Greetings from the Q&A forum"
-msgstr ""
+msgstr "Q&amp;Aフォーマルからのおしらせです"
 
 #: forum/skins/default/templates/authopenid/email_validation.txt:4
 msgid "To make use of the Forum, please follow the link below:"
@@ -3329,7 +3320,7 @@ msgstr ""
 #: forum/skins/default/templates/authopenid/sendpw.html:4
 #: forum/skins/default/templates/authopenid/sendpw.html:7
 msgid "Send new password"
-msgstr "Recover password"
+msgstr "パスワードの復旧"
 
 #: forum/skins/default/templates/authopenid/sendpw.html:10
 msgid "password recovery information"
@@ -3343,11 +3334,11 @@ msgstr ""
 
 #: forum/skins/default/templates/authopenid/sendpw.html:21
 msgid "Reset password"
-msgstr "Send me a new password"
+msgstr "新しいパスワードを発送する"
 
 #: forum/skins/default/templates/authopenid/sendpw.html:22
 msgid "return to login"
-msgstr ""
+msgstr "ログインに戻る"
 
 #: forum/skins/default/templates/authopenid/sendpw_email.txt:2
 #, python-format
@@ -3410,7 +3401,7 @@ msgstr ""
 #: forum/skins/default/templates/authopenid/signin.html:137
 #: forum/skins/default/templates/authopenid/signin.html:149
 msgid "Login"
-msgstr ""
+msgstr "ログイン"
 
 #: forum/skins/default/templates/authopenid/signin.html:140
 msgid "Enter your login name and password"
@@ -3420,19 +3411,19 @@ msgstr ""
 
 #: forum/skins/default/templates/authopenid/signin.html:144
 msgid "Login name"
-msgstr ""
+msgstr "ログイン名"
 
 #: forum/skins/default/templates/authopenid/signin.html:146
 msgid "Password"
-msgstr ""
+msgstr "パスワード"
 
 #: forum/skins/default/templates/authopenid/signin.html:150
 msgid "Create account"
-msgstr ""
+msgstr "アカウントを作成する"
 
 #: forum/skins/default/templates/authopenid/signup.html:29
 msgid "return to OpenID login"
-msgstr ""
+msgstr "OpenID ログインに戻る"
 
 #: forum/skins/default/templates/fbconnect/xd_receiver.html:5
 #, python-format
@@ -3445,45 +3436,45 @@ msgstr "徳"
 
 #: forum/templatetags/extra_tags.py:253
 msgid "2 days ago"
-msgstr ""
+msgstr "二日前"
 
 #: forum/templatetags/extra_tags.py:255
 msgid "yesterday"
-msgstr ""
+msgstr "昨日"
 
 #: forum/templatetags/extra_tags.py:257
 #, python-format
 msgid "%(hr)d hour ago"
 msgid_plural "%(hr)d hours ago"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%(hr)d 時間前"
+msgstr[1] "%(hr)d 時間前"
 
 #: forum/templatetags/extra_tags.py:259
 #, python-format
 msgid "%(min)d min ago"
 msgid_plural "%(min)d mins ago"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%(min)d 分前"
+msgstr[1] "%(min)d 分前"
 
 #: forum/utils/forms.py:27
 msgid "this field is required"
-msgstr ""
+msgstr "このフィールドは必須です"
 
 #: forum/utils/forms.py:42
 msgid "choose a username"
-msgstr "Choose screen name"
+msgstr "スクリーン名を選択しましょう"
 
 #: forum/utils/forms.py:47
 msgid "user name is required"
-msgstr ""
+msgstr "ユーザ名は必須です"
 
 #: forum/utils/forms.py:48
 msgid "sorry, this name is taken, please choose another"
-msgstr ""
+msgstr "申し訳ございません、この名前はすでに取られています。他のをお選びください"
 
 #: forum/utils/forms.py:49
 msgid "sorry, this name is not allowed, please choose another"
-msgstr ""
+msgstr "申し訳ございません、この名前は許可されていません。他のをお選びください"
 
 #: forum/utils/forms.py:50
 msgid "sorry, there is no user with this name"
@@ -3499,39 +3490,39 @@ msgstr ""
 
 #: forum/utils/forms.py:100
 msgid "your email address"
-msgstr "Your email <i>(never shared)</i>"
+msgstr "電子メール <i>(非公開)</i>"
 
 #: forum/utils/forms.py:101
 msgid "email address is required"
-msgstr ""
+msgstr "電子メールアドレスは必須です"
 
 #: forum/utils/forms.py:102
 msgid "please enter a valid email address"
-msgstr ""
+msgstr "有効な電子メールアドレスを入力してください"
 
 #: forum/utils/forms.py:103
 msgid "this email is already used by someone else, please choose another"
-msgstr ""
+msgstr "電子メールはすでに誰か別人につかわれています。他のをお選びください。"
 
 #: forum/utils/forms.py:128
 msgid "choose password"
-msgstr "Password"
+msgstr "パスワード"
 
 #: forum/utils/forms.py:129
 msgid "password is required"
-msgstr ""
+msgstr "パスワードは必須です"
 
 #: forum/utils/forms.py:132
 msgid "retype password"
-msgstr "Password <i>(please retype)</i>"
+msgstr "パスワード <i>(確認用)</i>"
 
 #: forum/utils/forms.py:133
 msgid "please, retype your password"
-msgstr ""
+msgstr "確認用パスワードを入力してください"
 
 #: forum/utils/forms.py:134
 msgid "sorry, entered passwords did not match, please try again"
-msgstr ""
+msgstr "申し訳ありませんが、入力したパスワードは一致しませんでした。再度入力してください。"
 
 #: forum/views/auth.py:94 forum/views/auth.py:103
 msgid ""
@@ -3541,7 +3532,7 @@ msgstr ""
 
 #: forum/views/auth.py:96
 msgid "You are already logged in with that user."
-msgstr ""
+msgstr "すでにログイン済みです。"
 
 #: forum/views/auth.py:101
 msgid "These login credentials are already associated with your account."

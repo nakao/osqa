@@ -167,7 +167,7 @@ msgstr "最初のバージョン"
 msgid "open questions without an accepted answer"
 msgstr "オープンな質問である。妥当な回答はまだない。"
 
-msgid "Most <strong>recently updataed</strong> questions"
+msgid "Most <strong>recently updated</strong> questions"
 msgstr "<strong>最近更新された</strong>質問"
 
 msgid "most <strong>recently asked</strong> questions"
@@ -1002,7 +1002,10 @@ msgstr "バッジ"
 #: forum/skins/default/templates/badges.html:21
 msgid "Community gives you awards for your questions, answers and votes."
 msgstr ""
-"質問と回答が高く投票されると、Q&amp;Aコミュニティーへの貢献がさまざまなバッジで認識されます。"
+"質問と回答が高く投票されると、Q&amp;Aコミュニティーへの貢献がさまざまなバッジで認定されます。"
+
+msgid "Below is the list of available badges and number of times each type of badge bas been awarded.\n"
+msgstr "次のリストが取得可能なバッジと認定された数です。"
 
 #: forum/skins/default/templates/badges.html:22
 #, python-format
@@ -3807,3 +3810,10 @@ msgid "Administration menu"
 msgstr "管理メニュー"
 
 
+
+# badges.py
+msgid "First edit"
+msgstr "最初の編集"
+
+msgid "Editor"
+msgstr "編集者"

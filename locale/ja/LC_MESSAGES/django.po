@@ -1004,8 +1004,12 @@ msgid "Community gives you awards for your questions, answers and votes."
 msgstr ""
 "質問と回答が高く投票されると、Q&amp;Aコミュニティーへの貢献がさまざまなバッジで認定されます。"
 
-msgid "Below is the list of available badges and number of times each type of badge bas been awarded.\n"
-msgstr "次のリストが取得可能なバッジと認定された数です。"
+msgid ""
+"Below is the list of available badges and number of times each type of badge bas been awarded.\n"
+""
+msgstr ""
+"次のリストが取得可能なバッジと認定された数です。"
+
 
 #: forum/skins/default/templates/badges.html:22
 #, python-format

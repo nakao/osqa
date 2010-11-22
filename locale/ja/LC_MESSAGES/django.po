@@ -2500,6 +2500,10 @@ msgstr "人気順"
 msgid "All tags matching query"
 msgstr "クエリ："
 
+#:
+msgid "questions matching"
+msgstr "マッチした質問："
+
 #: forum/skins/default/templates/tags.html:39
 msgid "all tags - make this empty in english"
 msgstr ""
@@ -2920,39 +2924,39 @@ msgstr ""
 #: forum/skins/default/templates/auth/complete.html:68
 #: forum/skins/default/templates/authopenid/complete.html:103
 msgid "create account"
-msgstr "Signup"
+msgstr "サインアップ"
 
 #: forum/skins/default/templates/auth/complete.html:77
 #: forum/skins/default/templates/authopenid/complete.html:112
 msgid "Existing account"
-msgstr ""
+msgstr "存在するアカウント"
 
 #: forum/skins/default/templates/auth/complete.html:78
 #: forum/skins/default/templates/authopenid/complete.html:113
 msgid "user name"
-msgstr ""
+msgstr "ユーザー名"
 
 #: forum/skins/default/templates/auth/complete.html:79
 #: forum/skins/default/templates/authopenid/complete.html:114
 msgid "password"
-msgstr ""
+msgstr "パスワード"
 
 #: forum/skins/default/templates/auth/complete.html:86
 #: forum/skins/default/templates/authopenid/complete.html:121
 msgid "Register"
-msgstr ""
+msgstr "登録"
 
 #: forum/skins/default/templates/auth/complete.html:87
 #: forum/skins/default/templates/authopenid/complete.html:122
 #: forum/skins/default/templates/authopenid/signin.html:151
 msgid "Forgot your password?"
-msgstr ""
+msgstr "パスワードを忘れましたか？"
 
 #: forum/skins/default/templates/auth/signin.html:22
 #: forum/skins/default/templates/authopenid/signin.html:5
 #: forum/skins/default/templates/authopenid/signin.html:21
 msgid "User login"
-msgstr "User login"
+msgstr "ユーザーログイン"
 
 #: forum/skins/default/templates/auth/signin.html:29
 #: forum/skins/default/templates/authopenid/signin.html:42
@@ -2973,12 +2977,12 @@ msgstr ""
 
 #: forum/skins/default/templates/auth/signin.html:84
 msgid "Enter your "
-msgstr ""
+msgstr "入力してください、"
 
 #: forum/skins/default/templates/auth/signin.html:140
 #: forum/skins/default/templates/authopenid/signin.html:160
 msgid "Why use OpenID?"
-msgstr ""
+msgstr "なぜOpenIDをつかうのか？"
 
 #: forum/skins/default/templates/auth/signin.html:143
 #: forum/skins/default/templates/authopenid/signin.html:163
@@ -3042,21 +3046,21 @@ msgstr ""
 #: forum/skins/default/templates/auth/signup.html:27
 #: forum/skins/default/templates/authopenid/signup.html:27
 msgid "Create Account"
-msgstr ""
+msgstr "アカウントを作成する"
 
 #: forum/skins/default/templates/auth/signup.html:29
 msgid "return to login page"
-msgstr ""
+msgstr "ログインページにもどる"
 
 #: forum/skins/default/templates/authopenid/changeemail.html:3
 #: forum/skins/default/templates/authopenid/changeemail.html:9
 #: forum/skins/default/templates/authopenid/changeemail.html:38
 msgid "Change email"
-msgstr "Change Email"
+msgstr "電子メールを変更する"
 
 #: forum/skins/default/templates/authopenid/changeemail.html:11
 msgid "Save your email address"
-msgstr ""
+msgstr "電子メールアドレスを保存する"
 
 #: forum/skins/default/templates/authopenid/changeemail.html:16
 #, python-format
@@ -3240,16 +3244,16 @@ msgstr ""
 
 #: forum/skins/default/templates/authopenid/confirm_email.txt:6
 msgid "Username:"
-msgstr ""
+msgstr "ユーザ名："
 
 #: forum/skins/default/templates/authopenid/confirm_email.txt:7
 #: forum/skins/default/templates/authopenid/delete.html:19
 msgid "Password:"
-msgstr ""
+msgstr "パスワード："
 
 #: forum/skins/default/templates/authopenid/confirm_email.txt:9
 msgid "Please sign in here:"
-msgstr ""
+msgstr "ここにサインしてください："
 
 #: forum/skins/default/templates/authopenid/confirm_email.txt:12
 #: forum/skins/default/templates/authopenid/email_validation.txt:14

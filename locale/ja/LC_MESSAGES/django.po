@@ -226,7 +226,7 @@ msgstr "タグは短いキーワードで空白文字（スペース）は含め
 #: forum/forms/qanda.py:
 msgid ""
 "Tags are short keywords, with no spaces within. At least %(min)s and up to %(max)s tags can be used."
-msgstr "タグは短いキーワードで空白文字（スペース）は含めません。少なくとも１つ、そして５つまでのタグが使用できます。"
+msgstr "タグは短いキーワードで空白文字（スペース）は含めません。少なくとも %(min)s つ、そして %(max)s つまでのタグが使用できます。"
 
 #: forum/forms.py:62 forum/skins/default/templates/question_retag.html:39
 msgid "tags are required"
@@ -3771,3 +3771,21 @@ msgstr "あなたのOpenID URLを入力してください"
 #~ msgstr[1] ""
 #~ "\n"
 #~ "<div class=\"questions-count\">%(q_num)s</div><p>questions</p>"
+
+#: admin/
+msgid "OSQA administration area - Dashboard"
+msgstr "OSQA 管理エリア：ダッシュボード"
+
+msgid "Welcome to the OSQA administration area."
+msgstr "ようこそ、OSQA管理エリアへ。"
+
+msgid "Quick statistics"
+msgstr "統計概要"
+
+msgid "Site status"
+msgstr "サイトの状態"
+
+msgid "Administration menu"
+msgstr "管理メニュー"
+
+

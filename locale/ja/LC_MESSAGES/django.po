@@ -2205,13 +2205,17 @@ msgstr "未回答質問"
 msgid "All questions"
 msgstr "すべての質問"
 
+#:
+msgid "All Questions"
+msgstr "すべての質問"
+
 #: forum/skins/default/templates/questions.html:47
 msgid "most recently asked questions"
-msgstr ""
+msgstr "最近尋ねられた質問"
 
 #: forum/skins/default/templates/questions.html:48
 msgid "most recently updated questions"
-msgstr ""
+msgstr "最近更新された質問"
 
 #: forum/skins/default/templates/questions.html:48
 msgid "active"
@@ -2229,15 +2233,15 @@ msgstr "更新日："
 
 #: forum/skins/default/templates/questions.html:144
 msgid "Did not find anything?"
-msgstr ""
+msgstr "何も見付かりませんか？"
 
 #: forum/skins/default/templates/questions.html:147
 msgid "Did not find what you were looking for?"
-msgstr ""
+msgstr "探していた物は見付かりませんか？"
 
 #: forum/skins/default/templates/questions.html:149
 msgid "Please, post your question!"
-msgstr ""
+msgstr "ぜひ、質問を投稿しましょう！"
 
 #: forum/skins/default/templates/questions.html:163
 #, python-format

@@ -217,6 +217,7 @@ msgid ""
 "Tags are short keywords, with no spaces within. Up to five tags can be used."
 msgstr "タグは短いキーワードで空白文字（スペース）は含めません。５つまでのタグが使用できます。"
 #
+msgid ""
 "Tags are short keywords, with no spaces within. At least 1 and up to five tags can be used."
 msgstr "タグは短いキーワードで空白文字（スペース）は含めません。少なくとも１つから５つまでのタグが使用できます。"
 

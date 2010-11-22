@@ -3816,10 +3816,362 @@ msgid "Administration menu"
 msgstr "管理メニュー"
 
 
+#: forum_modules/default_badges/badges.py:24
+#: forum_modules/default_badges/badges.py:31
+#, python-format
+msgid "Asked a question with %s views"
+msgstr ""
 
-# badges.py
+#: forum_modules/default_badges/badges.py:39
+#: forum_modules/default_badges/badges.py:53
+#: forum_modules/default_badges/badges.py:67
+#, fuzzy, python-format
+msgid "Answer voted up %s times"
+msgstr "Post Your Answer"
+
+#: forum_modules/default_badges/badges.py:46
+#: forum_modules/default_badges/badges.py:60
+#: forum_modules/default_badges/badges.py:74
+#, python-format
+msgid "Question voted up %s times"
+msgstr ""
+
+#: forum_modules/default_badges/badges.py:82
+#: forum_modules/default_badges/badges.py:89
+#, python-format
+msgid "Question favorited by %s users"
+msgstr ""
+
+#: forum_modules/default_badges/badges.py:97
+#, python-format
+msgid "Deleted own post with score of %s or higher"
+msgstr ""
+
+#: forum_modules/default_badges/badges.py:108
+#, python-format
+msgid "Deleted own post with score of %s or lower"
+msgstr ""
+
+#: forum_modules/default_badges/badges.py:120
+msgid "First flagged post"
+msgstr "フラグを最初にポストした"
+
+msgid "Citizen Patrol"
+msgstr "市民パトロール"
+
+#: forum_modules/default_badges/badges.py:127
+msgid "First down vote"
+msgstr ""
+
+#: forum_modules/default_badges/badges.py:134
+msgid "First retag"
+msgstr ""
+
+#: forum_modules/default_badges/badges.py:141
+msgid "First up vote"
+msgstr ""
+
+#: forum_modules/default_badges/badges.py:148
 msgid "First edit"
 msgstr "最初の編集"
 
 msgid "Editor"
 msgstr "編集者"
+
+#: forum_modules/default_badges/badges.py:155
+msgid "First accepted answer on your own question"
+msgstr ""
+
+#: forum_modules/default_badges/badges.py:162
+msgid "Completed all user profile fields"
+msgstr "ユーザープロファイルをすべて入力した"
+
+msgid "Autobiographer"
+msgstr "自伝作家"
+
+#: forum_modules/default_badges/badges.py:169
+msgid "First rollback"
+msgstr "初めて巻き戻した"
+
+msgid "Cleanup"
+msgstr "クリーンアップ"
+
+#: forum_modules/default_badges/badges.py:177
+#, python-format
+msgid "Voted %s times"
+msgstr "%s回投票した"
+
+msgid "Civic Duty"
+msgstr "市民の義務"
+
+
+#: forum_modules/default_badges/badges.py:184
+#, python-format
+msgid "Left %s comments"
+msgstr ""
+
+#: forum_modules/default_badges/badges.py:192
+#, fuzzy, python-format
+msgid "Answered your own question with at least %s up votes"
+msgstr "<span class='big strong'>You are welcome to answer your own question</span>, but please make sure to give an <strong>answer</strong>. Remember that you can always <strong>revise your original question</strong>. Please <strong>use comments for discussions</strong>  and <strong>please don't forget to vote :)</strong> for the answers that you liked (or perhaps did not like)! "
+
+#: forum_modules/default_badges/badges.py:205
+msgid "Strunk & White"
+msgstr ""
+
+#: forum_modules/default_badges/badges.py:206
+#, python-format
+msgid "Edited %s entries"
+msgstr ""
+
+#: forum_modules/default_badges/badges.py:217
+msgid "Asked first question with at least one up vote"
+msgstr ""
+
+#: forum_modules/default_badges/badges.py:228
+msgid "Answered first question with at least one up vote"
+msgstr ""
+
+#: forum_modules/default_badges/badges.py:260
+#, python-format
+msgid "First answer was accepted with at least %s up votes"
+msgstr ""
+
+#: forum_modules/default_badges/badges.py:271
+#, python-format
+msgid "Accepted answer and voted up %s times"
+msgstr ""
+
+#: forum_modules/default_badges/badges.py:282
+#, python-format
+msgid "Answered a question more than %(dif_days)s days later with at least %(up_votes)s votes"
+msgstr ""
+
+#: forum_modules/default_badges/badges.py:295
+#, python-format
+msgid "Created a tag used by %s questions"
+msgstr ""
+
+#: forum_modules/default_badges/settings.py:6
+msgid "Popular Question views"
+msgstr ""
+
+#: forum_modules/default_badges/settings.py:7
+msgid ""
+"\n"
+"Number of question views required to award a Popular Question badge to the question author\n"
+msgstr ""
+
+#: forum_modules/default_badges/settings.py:12
+msgid "Notable Question views"
+msgstr ""
+
+#: forum_modules/default_badges/settings.py:13
+msgid ""
+"\n"
+"Number of question views required to award a Notable Question badge to the question author\n"
+msgstr ""
+
+#: forum_modules/default_badges/settings.py:18
+msgid "Famous Question views"
+msgstr ""
+
+#: forum_modules/default_badges/settings.py:19
+msgid ""
+"\n"
+"Number of question views required to award a Famous Question badge to the question author\n"
+msgstr ""
+
+#: forum_modules/default_badges/settings.py:24
+msgid "Nice Answer up votes"
+msgstr ""
+
+#: forum_modules/default_badges/settings.py:25
+msgid ""
+"\n"
+"Number of up votes required to award a Nice Answer badge to the answer author\n"
+msgstr ""
+
+#: forum_modules/default_badges/settings.py:30
+#, fuzzy
+msgid "Nice Question up votes"
+msgstr "Tags"
+
+#: forum_modules/default_badges/settings.py:31
+msgid ""
+"\n"
+"Number of up votes required to award a Nice Question badge to the question author\n"
+msgstr ""
+
+#: forum_modules/default_badges/settings.py:36
+msgid "Good Answer up votes"
+msgstr ""
+
+#: forum_modules/default_badges/settings.py:37
+msgid ""
+"\n"
+"Number of up votes required to award a Good Answer badge to the answer author\n"
+msgstr ""
+
+#: forum_modules/default_badges/settings.py:42
+#, fuzzy
+msgid "Good Question up votes"
+msgstr "Tags"
+
+#: forum_modules/default_badges/settings.py:43
+msgid ""
+"\n"
+"Number of up votes required to award a Good Question badge to the question author\n"
+msgstr ""
+
+#: forum_modules/default_badges/settings.py:48
+msgid "Great Answer up votes"
+msgstr ""
+
+#: forum_modules/default_badges/settings.py:49
+msgid ""
+"\n"
+"Number of up votes required to award a Great Answer badge to the answer author\n"
+msgstr ""
+
+#: forum_modules/default_badges/settings.py:54
+#, fuzzy
+msgid "Great Question up votes"
+msgstr "Tags"
+
+#: forum_modules/default_badges/settings.py:55
+msgid ""
+"\n"
+"Number of up votes required to award a Great Question badge to the question author\n"
+msgstr ""
+
+#: forum_modules/default_badges/settings.py:60
+msgid "Favorite Question favorite count"
+msgstr ""
+
+#: forum_modules/default_badges/settings.py:61
+msgid ""
+"\n"
+"How many times a question needs to be favorited by other users to award a Favorite Question badge to the question author\n"
+msgstr ""
+
+#: forum_modules/default_badges/settings.py:66
+msgid "Stellar Question favorite count"
+msgstr ""
+
+#: forum_modules/default_badges/settings.py:67
+msgid ""
+"\n"
+"How many times a question needs to be favorited by other users to award a Stellar Question badge to the question author\n"
+msgstr ""
+
+#: forum_modules/default_badges/settings.py:72
+msgid "Disciplined minimum score"
+msgstr ""
+
+#: forum_modules/default_badges/settings.py:73
+msgid ""
+"\n"
+"Minimum score a question needs to have to award the Disciplined badge to an author of a question who deletes it.\n"
+msgstr ""
+
+#: forum_modules/default_badges/settings.py:78
+msgid "Peer Pressure maximum score"
+msgstr ""
+
+#: forum_modules/default_badges/settings.py:79
+msgid ""
+"\n"
+"Maximum score a question needs to have to award the Peer Pressure badge to an author of a question who deletes it.\n"
+msgstr ""
+
+#: forum_modules/default_badges/settings.py:84
+msgid "Civic Duty votes"
+msgstr ""
+
+#: forum_modules/default_badges/settings.py:85
+msgid ""
+"\n"
+"Number of votes an user needs to cast to be awarded the Civic Duty badge.\n"
+msgstr ""
+
+#: forum_modules/default_badges/settings.py:90
+msgid "Pundit number of comments"
+msgstr ""
+
+#: forum_modules/default_badges/settings.py:91
+msgid ""
+"\n"
+"Number of comments an user needs to post to be awarded the Pundit badge.\n"
+msgstr ""
+
+#: forum_modules/default_badges/settings.py:96
+msgid "Self Learner up votes"
+msgstr ""
+
+#: forum_modules/default_badges/settings.py:97
+msgid ""
+"\n"
+"Number of up votes an answer from the question author needs to have for the author to be awarded the Self Learner badge.\n"
+msgstr ""
+
+#: forum_modules/default_badges/settings.py:102
+msgid "Strunk and White updates"
+msgstr ""
+
+#: forum_modules/default_badges/settings.py:103
+msgid ""
+"\n"
+"Number of question or answer updates an user needs to make to be awarded the Strunk & White badge.\n"
+msgstr ""
+
+#: forum_modules/default_badges/settings.py:108
+msgid "Enlightened up votes"
+msgstr ""
+
+#: forum_modules/default_badges/settings.py:109
+msgid ""
+"\n"
+"Number of up votes an accepted answer needs to have for the author to be awarded the Enlightened badge.\n"
+msgstr ""
+
+#: forum_modules/default_badges/settings.py:114
+msgid "Guru up votes"
+msgstr ""
+
+#: forum_modules/default_badges/settings.py:115
+msgid ""
+"\n"
+"Number of up votes an accepted answer needs to have for the author to be awarded the Guru badge.\n"
+msgstr ""
+
+#: forum_modules/default_badges/settings.py:120
+msgid "Necromancer up votes"
+msgstr ""
+
+#: forum_modules/default_badges/settings.py:121
+msgid ""
+"\n"
+"Number of up votes an answer needs to have for the author to be awarded the Necromancer badge.\n"
+msgstr ""
+
+#: forum_modules/default_badges/settings.py:126
+msgid "Necromancer difference in days"
+msgstr ""
+
+#: forum_modules/default_badges/settings.py:127
+msgid ""
+"\n"
+"Difference in days betwen the posted date of a question and an answer for the answer author to be awarded the Necromancer badge.\n"
+msgstr ""
+
+#: forum_modules/default_badges/settings.py:132
+msgid "Taxonomist usage count"
+msgstr ""
+
+#: forum_modules/default_badges/settings.py:133
+msgid ""
+"\n"
+"How many usages a tag needs to have for the tag creator to be awarded the Taxonomist badge. \n"
+msgstr ""
+

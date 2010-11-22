@@ -164,10 +164,16 @@ msgstr "[削除されました]"
 msgid "initial version"
 msgstr "最初のバージョン"
 
+msgid "open questions without an accepted answer"
+msgstr "オープンな質問である。妥当な回答はまだない。"
+
 msgid "Most <strong>recently updataed</strong> questions"
 msgstr "<strong>最近更新された</strong>質問"
 
-msgid "most <strong>active</strong> questions in the last 24 hours"
+msgid "most <strong>recently asked</strong> questions"
+msgstr "<strong>最近尋ねられた</strong>質問"
+
+msgid "most <strong>active</strong> questions in the last 24 hours</strong>"
 msgstr "最近２４時間でもっとも<strong>活発な</strong>質問"
 
 msgid "most <strong>voted</strong> questions"

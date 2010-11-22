@@ -3820,7 +3820,7 @@ msgstr "管理メニュー"
 #: forum_modules/default_badges/badges.py:31
 #, python-format
 msgid "Asked a question with %s views"
-msgstr ""
+msgstr "%s 回読まれた質問をした"
 
 msgid "Famous Question"
 msgstr "著名な質問"
@@ -3856,7 +3856,7 @@ msgstr "ナイス回答"
 #: forum_modules/default_badges/badges.py:74
 #, python-format
 msgid "Question voted up %s times"
-msgstr ""
+msgstr "質問が %s 回上げ投票された"
 
 msgid "Great Question"
 msgstr "偉大な質問"
@@ -3873,7 +3873,7 @@ msgstr "ナイス質問"
 #: forum_modules/default_badges/badges.py:89
 #, python-format
 msgid "Question favorited by %s users"
-msgstr ""
+msgstr "質問が %s ユーザのお気に入りになった"
 
 msgid "Favorite Question"
 msgstr "お気に入りの質問"
@@ -3893,7 +3893,7 @@ msgstr "規律的"
 #: forum_modules/default_badges/badges.py:108
 #, python-format
 msgid "Deleted own post with score of %s or lower"
-msgstr ""
+msgstr "スコアが3以下の自身のポストを消した"
 
 msgid "Peer Pressure"
 msgstr "同僚からのプレッシャー"
@@ -3915,7 +3915,7 @@ msgstr "批評家"
 
 #: forum_modules/default_badges/badges.py:134
 msgid "First retag"
-msgstr ""
+msgstr "最初にタグを付け替えた"
 
 msgid "Organizer"
 msgstr "オーガナイザー"
@@ -3936,7 +3936,7 @@ msgstr "編集者"
 
 #: forum_modules/default_badges/badges.py:155
 msgid "First accepted answer on your own question"
-msgstr ""
+msgstr "自身の質問で回答が初めての受け入れられた"
 
 msgid "Scholar"
 msgstr "学者"
@@ -3967,7 +3967,7 @@ msgstr "市民の義務"
 #: forum_modules/default_badges/badges.py:184
 #, python-format
 msgid "Left %s comments"
-msgstr ""
+msgstr "%s 回コメントした"
 
 msgid "Pundit"
 msgstr "評論家"
@@ -3987,7 +3987,7 @@ msgstr "自習者"
 #: forum_modules/default_badges/badges.py:206
 #, python-format
 msgid "Edited %s entries"
-msgstr ""
+msgstr "%s 個のエントリを編集した"
 
 #: forum_modules/default_badges/badges.py:205
 msgid "Strunk & White"
@@ -4020,7 +4020,7 @@ msgstr "啓蒙されている"
 #: forum_modules/default_badges/badges.py:271
 #, python-format
 msgid "Accepted answer and voted up %s times"
-msgstr ""
+msgstr "回答が受け入れられ、%s 回上げ投票された"
 
 msgid "Guru"
 msgstr "導師"
@@ -4038,7 +4038,7 @@ msgstr "ネクロマンサー"
 #: forum_modules/default_badges/badges.py:295
 #, python-format
 msgid "Created a tag used by %s questions"
-msgstr ""
+msgstr "%s 個の質問でつかわれるタグをつくった"
 
 msgid "Taxonomist"
 msgstr "体系学者"

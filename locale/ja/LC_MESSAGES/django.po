@@ -216,6 +216,9 @@ msgstr "タグ"
 msgid ""
 "Tags are short keywords, with no spaces within. Up to five tags can be used."
 msgstr "タグは短いキーワードで空白文字（スペース）は含めません。５つまでのタグが使用できます。"
+#
+"Tags are short keywords, with no spaces within. At least 1 and up to five tags can be used."
+msgstr "タグは短いキーワードで空白文字（スペース）は含めません。少なくとも１つから５つまでのタグが使用できます。"
 
 #: forum/forms.py:62 forum/skins/default/templates/question_retag.html:39
 msgid "tags are required"
@@ -863,7 +866,7 @@ msgstr "詳細を提供してみましょう"
 #: forum/skins/default/templates/answer_edit_tips.html:16
 #: forum/skins/default/templates/question_edit_tips.html:13
 msgid "be clear and concise"
-msgstr "明確で正確であれ"
+msgstr "明確で正確でが近道。"
 
 #: forum/skins/default/templates/answer_edit_tips.html:20
 #: forum/skins/default/templates/question_edit_tips.html:17
@@ -1481,6 +1484,13 @@ msgstr "よくある質問"
 msgid "privacy policy"
 msgstr "プライバシーポリシー"
 
+msgid "privacy"
+msgstr "プライバシーポリシー"
+
+msgid "contact"
+msgstr "お問い合わせ"
+
+
 #: forum/skins/default/templates/footer.html:19
 msgid "give feedback"
 msgstr "フィードバックする"
@@ -1647,7 +1657,7 @@ msgstr "すべてのバッジ"
 #: forum/skins/default/templates/index.html:114
 #: forum/skins/default/templates/index_.html:114
 msgid "subscribe to last 30 questions by RSS"
-msgstr ""
+msgstr "最新の30質問のRSSを購読する"
 
 #: forum/skins/default/templates/index.html:121
 #: forum/skins/default/templates/index_.html:121
@@ -2142,24 +2152,28 @@ msgstr "最終更新日"
 
 #: forum/skins/default/templates/question.html:494
 msgid "Related questions"
-msgstr ""
+msgstr "関係した質問"
 
 #: forum/skins/default/templates/question_edit.html:5
 #: forum/skins/default/templates/question_edit.html:66
 msgid "Edit question"
-msgstr ""
+msgstr "質問を編集する"
 
 #: forum/skins/default/templates/question_edit_tips.html:4
 msgid "question tips"
-msgstr "Tips"
+msgstr "コツ"
+
+#:
+msgid "Title tips"
+msgstr "タイトルのコツ"
 
 #: forum/skins/default/templates/question_edit_tips.html:7
 msgid "please ask a relevant question"
-msgstr "ask a question relevant to the CNPROG community"
+msgstr "CNPROG コミュニティーに適した質問をしましょう。"
 
 #: forum/skins/default/templates/question_edit_tips.html:10
 msgid "please try provide enough details"
-msgstr "provide enough details"
+msgstr "十分な詳細を提供しましょう。"
 
 #: forum/skins/default/templates/question_retag.html:4
 #: forum/skins/default/templates/question_retag.html:53

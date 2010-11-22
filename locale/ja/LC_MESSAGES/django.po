@@ -199,12 +199,18 @@ msgstr "質問の記述的なタイトルを入力してください"
 msgid "title must be > 10 characters"
 msgstr "タイトルは１０文字以上必要です"
 
+msgid "title must be at least 10 characters"
+msgstr "タイトルは１０文字以上必要です"
+
 #: forum/forms.py:37
 msgid "content"
 msgstr "内容"
 
 #: forum/forms.py:43
 msgid "question content must be > 10 characters"
+msgstr "質問の内容は１０文字以上必要です"
+
+msgid "question content must be at least 10 characters"
 msgstr "質問の内容は１０文字以上必要です"
 
 #: forum/forms.py:53 forum/skins/default/templates/header.html:28
@@ -2642,7 +2648,7 @@ msgstr[1] ""
 #: forum/skins/default/templates/user_stats.html:36
 #, python-format
 msgid "the answer has been voted for %(vote_count)s times"
-msgstr "回答は%(vote_count)回投票されました"
+msgstr "回答は %(vote_count)s 回投票されました"
 
 #: forum/skins/default/templates/user_stats.html:36
 msgid "this answer has been selected as correct"

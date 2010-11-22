@@ -1515,6 +1515,10 @@ msgstr "バッジ"
 msgid "unanswered questions"
 msgstr "未回答"
 
+#
+msgid "unanswered"
+msgstr "未回答"
+
 #: forum/skins/default/templates/header.html:36
 msgid "ask a question"
 msgstr "質問する"
@@ -2192,6 +2196,9 @@ msgstr ""
 
 #: forum/skins/default/templates/questions.html:39
 msgid "Unanswered questions"
+msgstr "未回答質問"
+
+msgid "Unanswered Questions"
 msgstr "未回答質問"
 
 #: forum/skins/default/templates/questions.html:41

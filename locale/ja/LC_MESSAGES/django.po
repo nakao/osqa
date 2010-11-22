@@ -997,7 +997,6 @@ msgstr ""
 
 #: forum/skins/default/templates/badges.html:50
 msgid "Community badges"
-# msgstr "Badge levels"
 msgstr "バッジレベル"
 
 #: forum/skins/default/templates/badges.html:56
@@ -2342,12 +2341,10 @@ msgstr "<strong>最終更新時に</strong>質問はソートされてます。"
 
 #: forum/skins/default/templates/questions.html:206
 msgid "Most recently answered ones are shown first."
-#msgstr "<strong>Most recently answered</strong> questions are shown first."
 msgstr "<strong>最近回答された</strong>質問から表示してます。"
 
 #: forum/skins/default/templates/questions.html:210
 msgid "Questions sorted by <strong>number of responses</strong>."
-# msgstr "Questions sorted by the <strong>number of answers</strong>."
 msgstr "質問は<strong>回答数</strong>でソートされています。"
 
 #: forum/skins/default/templates/questions.html:211

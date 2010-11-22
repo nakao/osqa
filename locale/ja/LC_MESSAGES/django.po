@@ -3845,7 +3845,10 @@ msgstr ""
 #: forum_modules/default_badges/badges.py:97
 #, python-format
 msgid "Deleted own post with score of %s or higher"
-msgstr ""
+msgstr "%s 以上のスコアの自身のポストを削除した"
+
+msgid "Disciplined"
+msgstr "規律的"
 
 #: forum_modules/default_badges/badges.py:108
 #, python-format
@@ -3861,15 +3864,24 @@ msgstr "市民パトロール"
 
 #: forum_modules/default_badges/badges.py:127
 msgid "First down vote"
-msgstr ""
+msgstr "最初の下げ投票"
+
+msgid "Critic"
+msgstr "批評家"
 
 #: forum_modules/default_badges/badges.py:134
 msgid "First retag"
 msgstr ""
 
+msgid "Organizer"
+msgstr "オーガナイザー"
+
 #: forum_modules/default_badges/badges.py:141
 msgid "First up vote"
-msgstr ""
+msgstr "最初に上げ投票した"
+
+msgid "Supporter"
+msgste "サポーター"
 
 #: forum_modules/default_badges/badges.py:148
 msgid "First edit"
@@ -3881,6 +3893,9 @@ msgstr "編集者"
 #: forum_modules/default_badges/badges.py:155
 msgid "First accepted answer on your own question"
 msgstr ""
+
+msgid "Scholar"
+msgste "学者"
 
 #: forum_modules/default_badges/badges.py:162
 msgid "Completed all user profile fields"
@@ -3926,11 +3941,17 @@ msgstr ""
 
 #: forum_modules/default_badges/badges.py:217
 msgid "Asked first question with at least one up vote"
-msgstr ""
+msgstr "質問を最初に尋ねつつ少なくとも一つの上げ投票した"
+
+msgid "Student"
+msgstr "生徒"
 
 #: forum_modules/default_badges/badges.py:228
 msgid "Answered first question with at least one up vote"
-msgstr ""
+msgstr "質問に最初に回答しつつ少なくとも一つの上げ投票した"
+
+msgid "Teacher"
+msgstr "教師"
 
 #: forum_modules/default_badges/badges.py:260
 #, python-format
@@ -3951,6 +3972,9 @@ msgstr ""
 #, python-format
 msgid "Created a tag used by %s questions"
 msgstr ""
+
+msgid "Taxonomist"
+msgstr "体系学者"
 
 #: forum_modules/default_badges/settings.py:6
 msgid "Popular Question views"

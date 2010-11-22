@@ -2492,7 +2492,7 @@ msgstr "人気順"
 
 #: forum/skins/default/templates/tags.html:39
 msgid "All tags matching query"
-msgstr ""
+msgstr "クエリ："
 
 #: forum/skins/default/templates/tags.html:39
 msgid "all tags - make this empty in english"
@@ -2504,7 +2504,7 @@ msgstr "何もみつからない"
 
 #: forum/skins/default/templates/user_edit.html:6
 msgid "Edit user profile"
-msgstr ""
+msgstr "ユーザープロファイルを編集する"
 
 #: forum/skins/default/templates/user_edit.html:19
 msgid "edit profile"
@@ -2512,7 +2512,7 @@ msgstr "プロファイルを編集する"
 
 #: forum/skins/default/templates/user_edit.html:31
 msgid "image associated with your email address"
-msgstr ""
+msgstr "電子メールアドレスに関連づいている画像"
 
 #: forum/skins/default/templates/user_edit.html:31
 #, python-format
@@ -2548,7 +2548,7 @@ msgstr ""
 
 #: forum/skins/default/templates/user_email_subscriptions.html:21
 msgid "Stop sending email"
-msgstr "Stop Email"
+msgstr "電子メールを停止する"
 
 #: forum/skins/default/templates/user_info.html:22
 #: forum/skins/default/templates/users.html:26 forum/views/users.py:916
@@ -2593,11 +2593,11 @@ msgstr "歳"
 
 #: forum/skins/default/templates/user_info.html:100
 msgid "todays unused votes"
-msgstr ""
+msgstr "今日の使われてない投票"
 
 #: forum/skins/default/templates/user_info.html:101
 msgid "votes left"
-msgstr ""
+msgstr "消え去った投票"
 
 #: forum/skins/default/templates/user_stats.html:12
 #, python-format
@@ -2617,6 +2617,12 @@ msgstr[1] ""
 "\n"
 "<span class=\"count\">%(counter)s</span>個の質問\n"
 " "
+
+msgid "<span class=\"count\">{{cnt}}</span> Vote"
+msgid_plural "<span class=\"count\">{{cnt}}</span> Votes"
+msgstr[0] "<span class=\"count\">{{cnt}}</span>個の投票"
+msgstr[1] "<span class=\"count\">{{cnt}}</span>個の投票"
+
 
 #: forum/skins/default/templates/user_stats.html:23
 #, python-format
@@ -2640,7 +2646,7 @@ msgstr[1] ""
 #: forum/skins/default/templates/user_stats.html:36
 #, python-format
 msgid "the answer has been voted for %(vote_count)s times"
-msgstr ""
+msgstr "回答は%(vote_count)回投票されました"
 
 #: forum/skins/default/templates/user_stats.html:36
 msgid "this answer has been selected as correct"
@@ -2658,10 +2664,12 @@ msgid_plural ""
 "                    "
 msgstr[0] ""
 "\n"
-"（一個のコメント）"
+"（一個のコメント）\n"
+" "
 msgstr[1] ""
 "\n"
-"（%(comment_count)s個のコメント）"
+"（%(comment_count)s個のコメント）\n"
+" "
 
 #: forum/skins/default/templates/user_stats.html:61
 #, python-format
@@ -2674,7 +2682,13 @@ msgid_plural ""
 "                    <span class=\"count\">%(cnt)s</span> Votes\n"
 "                "
 msgstr[0] ""
+"\n"
+"                    <span class=\"count\">1</span>個の投票\n"
+"                "
 msgstr[1] ""
+"\n"
+"                    <span class=\"count\">%(cnt)s</span>個の投票\n"
+"                "
 
 #: forum/skins/default/templates/user_stats.html:72
 msgid "thumb up"

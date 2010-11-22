@@ -1626,7 +1626,7 @@ msgstr "タグ付けされた質問をみる"
 #: forum/skins/default/templates/index.html:74
 #: forum/skins/default/templates/index_.html:74
 msgid "welcome to website"
-msgstr "Welcome to Q&amp;A forum"
+msgstr "ようこそ Q&amp;A フォーラムへ"
 
 #: forum/skins/default/templates/index.html:85
 #: forum/skins/default/templates/index_.html:85
@@ -1978,7 +1978,7 @@ msgstr "最古の回答が最初に表示されます"
 
 #: forum/skins/default/templates/question.html:235
 msgid "oldest answers"
-msgstr "oldest"
+msgstr "回答順"
 
 #: forum/skins/default/templates/question.html:237
 msgid "newest answers will be shown first"
@@ -1986,7 +1986,7 @@ msgstr "最新の回答が最初に表示されます"
 
 #: forum/skins/default/templates/question.html:237
 msgid "newest answers"
-msgstr "newest"
+msgstr "最新"
 
 #: forum/skins/default/templates/question.html:239
 msgid "most voted answers will be shown first"
@@ -1994,7 +1994,7 @@ msgstr "もっとも投票された回答が最初に表示されます"
 
 #: forum/skins/default/templates/question.html:239
 msgid "popular answers"
-msgstr "most voted"
+msgstr "支持されている順"
 
 #: forum/skins/default/templates/question.html:253
 #: forum/skins/default/templates/question.html:254
@@ -2018,11 +2018,11 @@ msgstr ""
 
 #: forum/skins/default/templates/question.html:286
 msgid "answer permanent link"
-msgstr "回答のパーマリンク"
+msgstr "回答のリンク"
 
 #: forum/skins/default/templates/question.html:287
 msgid "permanent link"
-msgstr "link"
+msgstr "リンク"
 
 #: forum/skins/default/templates/question.html:309
 msgid "undelete"
@@ -2538,6 +2538,10 @@ msgstr "スクリーン名"
 #: forum/skins/default/templates/user_email_subscriptions.html:20
 msgid "Update"
 msgstr "更新する"
+
+msgid "Profile Updated."
+msgstr "プロファイルが更新されました。"
+
 
 #: forum/skins/default/templates/user_email_subscriptions.html:8
 msgid "Email subscription settings"
@@ -3433,7 +3437,7 @@ msgstr ""
 
 #: forum/templatetags/extra_tags.py:166 forum/templatetags/extra_tags.py:193
 msgid "reputation points"
-msgstr "karma"
+msgstr "徳"
 
 #: forum/templatetags/extra_tags.py:253
 msgid "2 days ago"
@@ -3596,11 +3600,16 @@ msgstr "プロファイル：応答"
 
 #: forum/views/users.py:917
 msgid "user reputation in the community"
-msgstr "user karma"
+msgstr "徳"
+
+msgid "karuma history"
+msgstr "徳の足跡"
+
+
 
 #: forum/views/users.py:918
 msgid "profile - user reputation"
-msgstr "Profile - User's Karma"
+msgstr "プロファイル：徳"
 
 #: forum/views/users.py:924
 msgid "favorite questions"

@@ -3878,6 +3878,9 @@ msgstr ""
 msgid "Favorite Question"
 msgstr "お気に入りの質問"
 
+msgid "Stellar Question"
+msgstr "スター質問"
+
 
 #: forum_modules/default_badges/badges.py:97
 #, python-format
@@ -3891,6 +3894,10 @@ msgstr "規律的"
 #, python-format
 msgid "Deleted own post with score of %s or lower"
 msgstr ""
+
+msgid "Peer Pressure"
+msgstr "同僚からのプレッシャー"
+
 
 #: forum_modules/default_badges/badges.py:120
 msgid "First flagged post"
@@ -3972,14 +3979,20 @@ msgstr "評論家"
 msgid "Answered your own question with at least %s up votes"
 msgstr "<span class='big strong'>You are welcome to answer your own question</span>, but please make sure to give an <strong>answer</strong>. Remember that you can always <strong>revise your original question</strong>. Please <strong>use comments for discussions</strong>  and <strong>please don't forget to vote :)</strong> for the answers that you liked (or perhaps did not like)! "
 
-#: forum_modules/default_badges/badges.py:205
-msgid "Strunk & White"
-msgstr ""
+msgid "Self Learner"
+msgstr "自習者"
+
+
 
 #: forum_modules/default_badges/badges.py:206
 #, python-format
 msgid "Edited %s entries"
 msgstr ""
+
+#: forum_modules/default_badges/badges.py:205
+msgid "Strunk & White"
+msgstr "「木下是清」"
+
 
 #: forum_modules/default_badges/badges.py:217
 msgid "Asked first question with at least one up vote"

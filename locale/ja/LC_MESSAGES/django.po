@@ -164,6 +164,15 @@ msgstr "[削除されました]"
 msgid "initial version"
 msgstr "最初のバージョン"
 
+msgid "Most <strong>recently updataed</strong> questions"
+msgstr "<strong>最近更新された</strong>質問"
+
+msgid "most <strong>active</strong> questions in the last 24 hours"
+msgstr "最近２４時間でもっとも<strong>活発な</strong>質問"
+
+msgid "most <strong>voted</strong> questions"
+msgstr "もっとも<strong>投票された</strong>質問"
+
 #: forum/const.py:88
 msgid "retagged"
 msgstr "再度タグ付け"
@@ -3773,8 +3782,11 @@ msgstr "あなたのOpenID URLを入力してください"
 #~ "<div class=\"questions-count\">%(q_num)s</div><p>questions</p>"
 
 #: admin/
-msgid "OSQA administration area - Dashboard"
-msgstr "OSQA 管理エリア：ダッシュボード"
+msgid "OSQA administration area"
+msgstr "OSQA 管理エリア"
+
+msgid "Dashboard"
+msgstr "ダッシュボード"
 
 msgid "Welcome to the OSQA administration area."
 msgstr "ようこそ、OSQA管理エリアへ。"

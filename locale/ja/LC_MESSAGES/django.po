@@ -2572,9 +2572,11 @@ msgid_plural ""
 msgstr[0] ""
 "\n"
 "<span class=\"count\">1</span>個の質問\n"
+" "
 msgstr[1] ""
 "\n"
 "<span class=\"count\">%(counter)s</span>個の質問\n"
+" "
 
 #: forum/skins/default/templates/user_stats.html:23
 #, python-format
@@ -2589,9 +2591,11 @@ msgid_plural ""
 msgstr[0] ""
 "\n"
 "<span class=\"count\">1</span>個の回答\n"
+" "
 msgstr[1] ""
 "\n"
 "<span class=\"count\">%(counter)s</span>個の回答\n"
+" "
 
 #: forum/skins/default/templates/user_stats.html:36
 #, python-format

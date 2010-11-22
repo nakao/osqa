@@ -222,9 +222,10 @@ msgstr "タグ"
 msgid ""
 "Tags are short keywords, with no spaces within. Up to five tags can be used."
 msgstr "タグは短いキーワードで空白文字（スペース）は含めません。５つまでのタグが使用できます。"
-#
+
+#: forum/forms/qanda.py:
 msgid ""
-"Tags are short keywords, with no spaces within. At least 1 and up to 5 tags can be used."
+"Tags are short keywords, with no spaces within. At least %(min)s and up to %(max)s tags can be used."
 msgstr "タグは短いキーワードで空白文字（スペース）は含めません。少なくとも１つ、そして５つまでのタグが使用できます。"
 
 #: forum/forms.py:62 forum/skins/default/templates/question_retag.html:39
@@ -1643,6 +1644,10 @@ msgstr "タグ"
 #: forum/skins/default/templates/index_.html:98
 msgid "Recent awards"
 msgstr "最近のバッジ"
+
+#:
+msgid "Recent activity"
+msgstr "最近の活動"
 
 #: forum/skins/default/templates/index.html:104
 msgid "given to"
@@ -3253,8 +3258,9 @@ msgid ""
 "Sincerely,\n"
 "Forum Administrator"
 msgstr ""
-"Sincerely,\n"
-"Q&A Forum Administrator"
+"よろしくおねがいします。\n"
+"--\n"
+"Q&A フォーラム管理"
 
 #: forum/skins/default/templates/authopenid/delete.html:8
 msgid "Account: delete account"

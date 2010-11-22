@@ -3881,7 +3881,7 @@ msgid "First up vote"
 msgstr "最初に上げ投票した"
 
 msgid "Supporter"
-msgste "サポーター"
+msgstr "サポーター"
 
 #: forum_modules/default_badges/badges.py:148
 msgid "First edit"
@@ -3895,7 +3895,7 @@ msgid "First accepted answer on your own question"
 msgstr ""
 
 msgid "Scholar"
-msgste "学者"
+msgstr "学者"
 
 #: forum_modules/default_badges/badges.py:162
 msgid "Completed all user profile fields"

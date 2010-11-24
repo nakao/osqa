@@ -4313,6 +4313,7 @@ msgid "Here you can decide which types of notifications you wish to receive, and
 msgstr "ここでは通知のタイプと頻度を望み通りにすることができます。"
 msgid "Currently you have notifications enabled. You can always stop all notifications without losing your settings and restart them afterwards."
 ""
+msgstr
 msgid "Settings"
 msgstr "設定"
 msgid "Manage"

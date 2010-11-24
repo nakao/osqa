@@ -1005,11 +1005,13 @@ msgstr ""
 "質問と回答が高く投票されると、Q&amp;Aコミュニティーへの貢献がさまざまなバッジで認定されます。"
 
 #:
+#: forum/skins/default/templates/badges.html:22
+#, python-format
 msgid ""
-"Below is the list of available badges and number of times each type of badge bas been awarded.\n"
-""
+"Below is the list of available badges and number \n"
+"    of times each type of badge has been awarded. "
 msgstr ""
-"次のリストが取得可能なバッジと認定された数です。\n"
+"次のリストが取得可能なバッジと認定されるための数です。\n"
 ""
 
 

@@ -1804,9 +1804,14 @@ msgstr "プライバシーポリシー"
 #: forum/skins/default/templates/privacy.html:15
 msgid "general message about privacy"
 msgstr ""
-"Respecting users privacy is an important core principle of this Q&amp;A "
-"forum. Information on this page details how this forum protects your "
-"privacy, and what type of information is collected."
+"ユーザープライバシーを尊重する事はこの Q&amp;A フォーラムの重要な原則です。"
+"このページの情報は、どのようにこのフォーラムがユーザのプライバシーを保護しているか、"
+"また、どのようなタイプの情報が集められているのかについて詳しく述べています。"
+"このフォーラムは、<a href='http://lifesciencedb.jp/lsdb.cgi?lng=jp&gg=policy'>ライフサイエンス統合データベースプロジェクトサイトポリシー</a>に準じています。"
+# "Respecting users privacy is an important core principle of this Q&amp;A "
+# "forum. Information on this page details how this forum protects your "
+# "privacy, and what type of information is collected."
+
 
 #: forum/skins/default/templates/privacy.html:18
 msgid "Site Visitors"
@@ -1815,9 +1820,11 @@ msgstr "サイト訪問者数"
 #: forum/skins/default/templates/privacy.html:20
 msgid "what technical information is collected about visitors"
 msgstr ""
-"Information on question views, revisions of questions and answers - both "
-"times and content are recorded for each user in order to correctly count "
-"number of views, maintain data integrity and report relevant updates."
+"質問閲覧、質問や回答の更新履歴の情報から、"
+"正確な閲覧数の産出、データの無欠性の保持と適切な更新の報告のために各ユーザの行動の時刻と内容が記録されます。"
+#"Information on question views, revisions of questions and answers - both "
+#"times and content are recorded for each user in order to correctly count "
+#"number of views, maintain data integrity and report relevant updates."
 
 #: forum/skins/default/templates/privacy.html:23
 msgid "Personal Information"
@@ -1826,9 +1833,11 @@ msgstr "個人情報"
 #: forum/skins/default/templates/privacy.html:25
 msgid "details on personal information policies"
 msgstr ""
-"Members of this community may choose to display personally identifiable "
-"information in their profiles. Forum will never display such information "
-"without a request from the user."
+"このコミュニティのメンバーはプロファイルとして個人を同定しうる情報を表示することを選択することができます。"
+"フォーラムは、ユーザーからのリクエストが無いかぎりそのような情報を表示する事はありません。"
+#"Members of this community may choose to display personally identifiable "
+#"information in their profiles. Forum will never display such information "
+#"without a request from the user."
 
 #: forum/skins/default/templates/privacy.html:28
 msgid "Other Services"
@@ -1837,26 +1846,34 @@ msgstr "他のサービス"
 #: forum/skins/default/templates/privacy.html:30
 msgid "details on sharing data with third parties"
 msgstr ""
-"None of the data that is not openly shown on the forum by the choice of the "
-"user is shared with any third party."
+"フォーラムにおいてユーザの選択によって公開していないデータはあらゆる第三者と共有されません。"
+#"None of the data that is not openly shown on the forum by the choice of the "
+#"user is shared with any third party."
+
+#: forum/skins/default/templates/privacy.html:28
+msgid "Coolies"
+msgstr "クッキー"
 
 #: forum/skins/default/templates/privacy.html:35
 msgid "cookie policy details"
 msgstr ""
-"Forum software relies on the internet cookie technology to keep track of "
-"user sessions. Cookies must be enabled in your browser so that forum can "
-"work for you."
+"フォーラムソフトウェアはインターネットクッキー技術によりユーザーのセッションを保持しています。フォーラムが正常に働くためには、クッキーはご利用のブラウザの中で有効化されなければなりません。"
+#
+#"Forum software relies on the internet cookie technology to keep track of "
+#"user sessions. Cookies must be enabled in your browser so that forum can "
+#"work for you."
 
 #: forum/skins/default/templates/privacy.html:37
 msgid "Policy Changes"
-msgstr "ポリシー変更"
+msgstr "ポリシーの更新"
 
 #: forum/skins/default/templates/privacy.html:38
 msgid "how privacy policies can be changed"
 msgstr ""
-"These policies may be adjusted to improve protection of user's privacy. "
-"Whenever such changes occur, users will be notified via the internal "
-"messaging system. "
+"これらのポリシーはユーザーの個人情報保護の改善の為に修正されることがあります。そのような変更があるたびに、ユーザーは内部通知システムを経由して通知を受けることになります。"
+#"These policies may be adjusted to improve protection of user's privacy. "
+#"Whenever such changes occur, users will be notified via the internal "
+#"messaging system. "
 
 #: forum/skins/default/templates/question.html:77
 #: forum/skins/default/templates/question.html:78
@@ -2451,7 +2468,7 @@ msgstr ""
 
 #: forum/skins/default/templates/reopen.html:22
 msgid "date closed"
-msgstr "閉じた日時"
+msgstr "閉鎖した日時"
 
 #: forum/skins/default/templates/reopen.html:29
 msgid "Reopen this question"

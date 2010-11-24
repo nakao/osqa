@@ -630,15 +630,15 @@ msgstr ""
 
 #: forum/models/repute.py:13 forum/skins/default/templates/badges.html:53
 msgid "gold"
-msgstr "金"
+msgstr "金賞"
 
 #: forum/models/repute.py:14 forum/skins/default/templates/badges.html:61
 msgid "silver"
-msgstr "銀"
+msgstr "銀賞"
 
 #: forum/models/repute.py:15 forum/skins/default/templates/badges.html:68
 msgid "bronze"
-msgstr "銅"
+msgstr "銅賞"
 
 #: forum/models/tag.py:79
 msgid "interesting"
@@ -946,7 +946,7 @@ msgstr "Markdownについてさらに学ぶ"
 #: forum/skins/default/templates/ask.html:5
 #: forum/skins/default/templates/ask.html:61
 msgid "Ask a question"
-msgstr "質問をたずねる"
+msgstr "質問する"
 
 #: forum/skins/default/templates/ask.html:68
 msgid "login to post question info"
@@ -2837,6 +2837,8 @@ msgstr "Graph of user karma"
 #: forum/skins/default/templates/user_tabs.html:17
 msgid "reputation history"
 msgstr "信用度履歴"
+msgid "karma history"
+msgstr "徳の履歴"
 
 #: forum/skins/default/templates/user_tabs.html:20 forum/views/users.py:934
 msgid "user vote record"

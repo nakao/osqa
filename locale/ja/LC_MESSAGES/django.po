@@ -4306,7 +4306,7 @@ msgstr "回答"
 msgid "Answers and Comments"
 msgstr "回答とコメント"
 
-#:
+#: user subscription	
 msgid "Notifications and subscription settings"
 msgstr "通知と登録の設定"
 msgid "Here you can decide which types of notifications you wish to receive, and their frequency."
@@ -4362,3 +4362,25 @@ msgid "Send me the daily digest with information about the site activity"
 msgstr "サイトについての情報のついた日刊ダイジェストを受け取る"
 msgid "Manage your current subscriptions"
 msgstr "現在の登録状況を管理する"
+
+#: authsettings
+msgid "Authentication settings"
+msgstr "認証設定"
+msgid "These are the external authentication providers currently associated with your account."
+msgstr "これらは、あなたのアカウントに現在関連づけられている外部認証プロバイダーです。"
+msgid "Add new provider"
+msgstr "あたらしいプロバイダーを追加する"
+msgid "remove"
+msgstr "取り除く"
+msgid "OpenId url:"
+msgstr "OpenID URL:"
+
+#:preferences
+msgid "Preferences"
+msgstr "環境設定"
+msgid "Here you can set some personal preferences."
+msgstr "ここではいくつかの個人的環境設定をセットできます。"
+msgid "Navigation:"
+msgstr "ナビゲーション"
+msgid "Allways remember the sort order I apply to the lists I view"
+msgstr "閲覧したことのあるリストのソート順をつねに記憶する"

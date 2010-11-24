@@ -4295,7 +4295,7 @@ msgid "You were automatically subscribed to this question."
 msgstr "あなたは自動的にこの質問を登録しています。"
 
 msgid "(you can adjust your notification settings on your <a href=\"%s\">profile</a>)"
-msgstr "（<a href="%s">プロフィール</a>設定で電子メール通知の設定変更が可能です)"）"
+msgstr "（<a href=\"%s\">プロフィール</a>設定で電子メール通知の設定変更が可能です)"）"
 
 msgid "By RSS:"
 msgstr "RSSで："

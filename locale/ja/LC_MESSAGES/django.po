@@ -4284,3 +4284,24 @@ msgid ""
 "How many usages a tag needs to have for the tag creator to be awarded the Taxonomist badge. \n"
 msgstr ""
 
+#:
+msgid "Follow this question"
+msgstr "この質問をフォローする"
+
+msgid "By Email:"
+msgstr "電子メールで："
+
+msgid "You were automatically subscribed to this question."
+msgstr "あなたは自動的にこの質問を登録しています。"
+
+msgid "(you can adjust your notification settings on your <a href="%s">profile</a>)"
+msgstr "（<a href="%s">プロフィール</a>設定で電子メール通知の設定変更が可能です)"）"
+
+msgid "By RSS:"
+msgstr "RSSで："
+
+msgind "Answers"
+msgstr "回答"
+
+msgind "Answers and Comments"
+msgstr "回答とコメント"

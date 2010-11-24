@@ -1011,7 +1011,7 @@ msgid ""
 "Below is the list of available badges and number \n"
 "    of times each type of badge has been awarded. "
 msgstr ""
-"次のリストが取得可能なバッジと認定されるための数です。\n"
+"次のリストが取得可能なバッジと認定されるための数です。"
 ""
 
 

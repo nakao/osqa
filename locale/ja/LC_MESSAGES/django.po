@@ -980,7 +980,7 @@ msgstr "Login/Signup to Post"
 
 #: forum/skins/default/templates/ask.html:121
 msgid "Ask your question"
-msgstr "質問をたずねる"
+msgstr "質問を投稿する"
 
 #: forum/skins/default/templates/badge.html:6
 #: forum/skins/default/templates/badge.html:17

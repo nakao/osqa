@@ -2559,7 +2559,8 @@ msgid "email notification settings"
 msgstr "電子メール通知設定"
 msgid "other preferences"
 msgstr "そのほかの環境設定"
-
+msgid "User tools"
+msgstr "ユーザーツール"
 
 #: forum/skins/default/templates/user_edit.html:19
 msgid "edit profile"
@@ -2638,7 +2639,7 @@ msgstr "最終活動"
 msgid "user website"
 msgstr "ユーザーのウェブサイト"
 msgid "user's website"
-msgstr "ユーザーのウェブサイト"
+msgstr "ウェブサイト"
 
 #: forum/skins/default/templates/user_info.html:86
 msgid "location"

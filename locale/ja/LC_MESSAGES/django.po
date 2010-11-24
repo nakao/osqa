@@ -2553,6 +2553,13 @@ msgstr "何もみつからない"
 #: forum/skins/default/templates/user_edit.html:6
 msgid "Edit user profile"
 msgstr "ユーザープロファイルを編集する"
+msgid "authentication settings"
+msgstr "認証設定"
+msgid "email notification settings"
+msgstr "電子メール通知設定"
+msgid "other preferences"
+msgstr "そのほかの環境設定"
+
 
 #: forum/skins/default/templates/user_edit.html:19
 msgid "edit profile"
@@ -2629,6 +2636,8 @@ msgstr "最終活動"
 
 #: forum/skins/default/templates/user_info.html:80
 msgid "user website"
+msgstr "ユーザーのウェブサイト"
+msgid "user's website"
 msgstr "ユーザーのウェブサイト"
 
 #: forum/skins/default/templates/user_info.html:86

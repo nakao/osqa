@@ -980,11 +980,24 @@ msgstr "（必須）"
 
 #: forum/skins/default/templates/ask.html:119
 msgid "Login/signup to post your question"
-msgstr "Login/Signup to Post"
+msgstr "投稿するためにログイン／サインアップする"
 
 #: forum/skins/default/templates/ask.html:121
 msgid "Ask your question"
 msgstr "質問を投稿する"
+
+#:
+msgid "What Are Tags"
+msgstr "タグとは何か"
+#:
+msgid "Tags are words that will tell others what this question is about."
+msgstr "タグは言葉、ほかのひとにこの質問について伝えるための。"
+#:
+msgid "They will help other find your question."
+msgstr "タグは助ける、ほかのひとがこの質問を見つけるのに。"
+#:
+msgid "A question can have up to %s tags, but it must have at least %s."
+msgstr "質問には %s 個までタグがつけられます、少なくとも %s 個必要です。"
 
 #: forum/skins/default/templates/badge.html:6
 #: forum/skins/default/templates/badge.html:17
@@ -1364,7 +1377,7 @@ msgstr ""
 "(gravatar_faq_url)s'><strong>gravatar</strong></a> personal image.</p>"
 
 #: forum/skins/default/templates/faq.html:110
-   msgid "what is gravatar"
+msgid "what is gravatar"
 msgstr "What is gravatar?"
 
 #: forum/skins/default/templates/faq.html:111
@@ -4068,7 +4081,7 @@ msgid "First answer was accepted with at least %s up votes"
 msgstr "最初の回答が納得され、少なくとも %s 上げ投票があった。"
 
 msgid "Enlightened"
-msgstr "啓蒙されている"
+msgstr "よくわかっていらっしゃる"
 
 
 #: forum_modules/default_badges/badges.py:271

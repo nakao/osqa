@@ -1829,6 +1829,7 @@ msgstr ""
 #: forum/skins/default/templates/privacy.html:20
 msgid "what technical information is collected about visitors"
 msgstr ""
+"　"
 #"質問閲覧、質問や回答の更新履歴の情報から、"
 #"正確な閲覧数の産出、データの無欠性の保持と適切な更新の報告のために各ユーザの行動の時刻と内容が記録されます。"
 #"Information on question views, revisions of questions and answers - both "
@@ -1866,7 +1867,7 @@ msgstr ""
 #"user is shared with any third party."
 
 #: forum/skins/default/templates/privacy.html:28
-msgid "Coolies"
+msgid "Cookies"
 msgstr ""
 "　"
 #"クッキー"

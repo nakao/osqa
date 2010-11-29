@@ -50,7 +50,7 @@ msgstr "質問への回答になっていません"
 
 #: forum/const.py:12
 msgid "the question is answered, right answer was accepted"
-msgstr "質問は回答され、正当な回答が受け付けられました"
+msgstr "質問は回答され、正当な回答が受け入れられました"
 
 #: forum/const.py:13
 msgid "problem is not reproducible or outdated"
@@ -150,7 +150,7 @@ msgstr "回答コメント"
 
 #: forum/const.py:81
 msgid "answer_accepted"
-msgstr "受け付けられた回答"
+msgstr "納得された回答"
 
 #: forum/const.py:85
 msgid "[closed]"
@@ -165,7 +165,7 @@ msgid "initial version"
 msgstr "最初のバージョン"
 
 msgid "open questions without an accepted answer"
-msgstr "オープンな質問である。妥当な回答はまだない。"
+msgstr "個の質問が回答募集中"
 
 msgid "Most <strong>recently updated</strong> questions"
 msgstr "<strong>最近更新された</strong>質問"
@@ -690,7 +690,7 @@ msgstr "この質問もしくは回答は削除されました；"
 
 #: forum/skins/default/templates/404.html:29
 msgid "url has error - please check it;"
-msgstr "URLはエラーです。確認して下さい；"
+msgstr "URLがエラーを含んでいます。。確認して下さい；"
 
 #: forum/skins/default/templates/404.html:30
 msgid ""
@@ -889,7 +889,7 @@ msgstr "詳細を提供してみましょう"
 #: forum/skins/default/templates/answer_edit_tips.html:16
 #: forum/skins/default/templates/question_edit_tips.html:13
 msgid "be clear and concise"
-msgstr "明確で正確でが近道。"
+msgstr "明確で正確な質問を"
 
 #: forum/skins/default/templates/answer_edit_tips.html:20
 #: forum/skins/default/templates/question_edit_tips.html:17
@@ -899,39 +899,43 @@ msgstr "良くある質問をみましょう"
 #: forum/skins/default/templates/answer_edit_tips.html:26
 #: forum/skins/default/templates/question_edit_tips.html:23
 msgid "Markdown tips"
-msgstr "Markdown の基本"
+msgstr "Markdown 記法の基本"
+
+msgid "Markdown Basics"
+msgstr "Markdown 記法の基本"
+
 
 #: forum/skins/default/templates/answer_edit_tips.html:29
 #: forum/skins/default/templates/question_edit_tips.html:26
 msgid "*italic* or __italic__"
-msgstr ""
+msgstr "*斜体* もしくは __斜体__"
 
 #: forum/skins/default/templates/answer_edit_tips.html:32
 #: forum/skins/default/templates/question_edit_tips.html:29
 msgid "**bold** or __bold__"
-msgstr ""
+msgstr "**太文字** もしくは __太文字__"
 
 #: forum/skins/default/templates/answer_edit_tips.html:35
 #: forum/skins/default/templates/question_edit_tips.html:32
 msgid "link"
-msgstr ""
+msgstr "リンク"
 
 #: forum/skins/default/templates/answer_edit_tips.html:35
 #: forum/skins/default/templates/answer_edit_tips.html:39
 #: forum/skins/default/templates/question_edit_tips.html:32
 #: forum/skins/default/templates/question_edit_tips.html:37
 msgid "text"
-msgstr ""
+msgstr "テキスト"
 
 #: forum/skins/default/templates/answer_edit_tips.html:39
 #: forum/skins/default/templates/question_edit_tips.html:37
 msgid "image"
-msgstr ""
+msgstr "画像"
 
 #: forum/skins/default/templates/answer_edit_tips.html:43
 #: forum/skins/default/templates/question_edit_tips.html:41
 msgid "numbered list:"
-msgstr ""
+msgstr "数字付きリスト"
 
 #: forum/skins/default/templates/answer_edit_tips.html:48
 #: forum/skins/default/templates/question_edit_tips.html:46
@@ -941,7 +945,7 @@ msgstr "基本HTMLタグもサポートしています"
 #: forum/skins/default/templates/answer_edit_tips.html:52
 #: forum/skins/default/templates/question_edit_tips.html:50
 msgid "learn more about Markdown"
-msgstr "Markdownについてさらに学ぶ"
+msgstr "Markdown記法についてさらに学ぶ"
 
 #: forum/skins/default/templates/ask.html:5
 #: forum/skins/default/templates/ask.html:61
@@ -1360,7 +1364,7 @@ msgstr ""
 "(gravatar_faq_url)s'><strong>gravatar</strong></a> personal image.</p>"
 
 #: forum/skins/default/templates/faq.html:110
-msgid "what is gravatar"
+   msgid "what is gravatar"
 msgstr "What is gravatar?"
 
 #: forum/skins/default/templates/faq.html:111
@@ -1806,10 +1810,11 @@ msgstr "プライバシーポリシー"
 #: forum/skins/default/templates/privacy.html:15
 msgid "general message about privacy"
 msgstr ""
-"ユーザーのプライバシーを尊重する事はこの Q&amp;A フォーラムの重要な原則です。"
-"このページの情報は、どのようにこのフォーラムがユーザのプライバシーを保護しているか、"
-"また、どのようなタイプの情報が集められているのかについて詳しく述べています。"
-"このフォーラムは、<a href='http://lifesciencedb.jp/lsdb.cgi?lng=jp&gg=policy'>ライフサイエンス統合データベースプロジェクトサイトポリシー</a>に準じています。"
+"<p>このウェブサイトは、<a href='http://lifesciencedb.jp/lsdb.cgi?lng=jp&gg=policy'>"
+"ライフサイエンス統合データベースプロジェクトサイトポリシー</a>に準じています。</p>"
+#"ユーザーのプライバシーを尊重する事はこの Q&amp;A フォーラムの重要な原則です。"
+#"このページの情報は、どのようにこのフォーラムがユーザのプライバシーを保護しているか、"
+#"また、どのようなタイプの情報が集められているのかについて詳しく述べています。"
 # "Respecting users privacy is an important core principle of this Q&amp;A "
 # "forum. Information on this page details how this forum protects your "
 # "privacy, and what type of information is collected."
@@ -1817,49 +1822,53 @@ msgstr ""
 
 #: forum/skins/default/templates/privacy.html:18
 msgid "Site Visitors"
-msgstr "サイト訪問者数"
+msgstr ""
+#"サイト訪問者数"
 
 #: forum/skins/default/templates/privacy.html:20
 msgid "what technical information is collected about visitors"
 msgstr ""
-"質問閲覧、質問や回答の更新履歴の情報から、"
-"正確な閲覧数の産出、データの無欠性の保持と適切な更新の報告のために各ユーザの行動の時刻と内容が記録されます。"
+#"質問閲覧、質問や回答の更新履歴の情報から、"
+#"正確な閲覧数の産出、データの無欠性の保持と適切な更新の報告のために各ユーザの行動の時刻と内容が記録されます。"
 #"Information on question views, revisions of questions and answers - both "
 #"times and content are recorded for each user in order to correctly count "
 #"number of views, maintain data integrity and report relevant updates."
 
 #: forum/skins/default/templates/privacy.html:23
 msgid "Personal Information"
-msgstr "個人情報"
+msgstr ""
+#"個人情報"
 
 #: forum/skins/default/templates/privacy.html:25
 msgid "details on personal information policies"
 msgstr ""
-"このコミュニティのメンバーは、プロファイルとして個人を同定しうる情報を表示することを選択することができます。"
-"フォーラムは、ユーザーからのリクエストが無いかぎりそのような情報を表示する事はありません。"
+#"このコミュニティのメンバーは、プロファイルとして個人を同定しうる情報を表示することを選択することができます。"
+#"フォーラムは、ユーザーからのリクエストが無いかぎりそのような情報を表示する事はありません。"
 #"Members of this community may choose to display personally identifiable "
 #"information in their profiles. Forum will never display such information "
 #"without a request from the user."
 
 #: forum/skins/default/templates/privacy.html:28
 msgid "Other Services"
-msgstr "他のサービス"
+msgstr ""
+#"他のサービス"
 
 #: forum/skins/default/templates/privacy.html:30
 msgid "details on sharing data with third parties"
 msgstr ""
-"フォーラムにおいて、ユーザの選択として公開していないデータはあらゆる第三者と共有されません。"
+#"フォーラムにおいて、ユーザの選択として公開していないデータはあらゆる第三者と共有されません。"
 #"None of the data that is not openly shown on the forum by the choice of the "
 #"user is shared with any third party."
 
 #: forum/skins/default/templates/privacy.html:28
 msgid "Coolies"
-msgstr "クッキー"
+msgstr ""
+#"クッキー"
 
 #: forum/skins/default/templates/privacy.html:35
 msgid "cookie policy details"
 msgstr ""
-"フォーラムソフトウェアはインターネットクッキー技術によりユーザーのセッションを保持しています。フォーラムが正常に働くためには、クッキーはご利用のブラウザの中で有効化されなければなりません。"
+#"フォーラムソフトウェアはインターネットクッキー技術によりユーザーのセッションを保持しています。フォーラムが正常に働くためには、クッキーはご利用のブラウザの中で有効化されなければなりません。"
 #
 #"Forum software relies on the internet cookie technology to keep track of "
 #"user sessions. Cookies must be enabled in your browser so that forum can "
@@ -1867,12 +1876,13 @@ msgstr ""
 
 #: forum/skins/default/templates/privacy.html:37
 msgid "Policy Changes"
-msgstr "ポリシーの更新"
+msgstr ""
+#"ポリシーの更新"
 
 #: forum/skins/default/templates/privacy.html:38
 msgid "how privacy policies can be changed"
 msgstr ""
-"これらのポリシーはユーザーの個人情報保護の改善の為に修正されることがあります。そのような変更があるたびに、ユーザーは内部通知システムを経由して通知を受けることになります。"
+#"これらのポリシーはユーザーの個人情報保護の改善の為に修正されることがあります。そのような変更があるたびに、ユーザーは内部通知システムを経由して通知を受けることになります。"
 #"These policies may be adjusted to improve protection of user's privacy. "
 #"Whenever such changes occur, users will be notified via the internal "
 #"messaging system. "
@@ -2134,7 +2144,7 @@ msgstr ""
 
 #: forum/skins/default/templates/question.html:407
 msgid "Be the first one to answer this question!"
-msgstr "この質問のはじめての回答になります！"
+msgstr "この質問の最初の回答になれます！"
 
 #: forum/skins/default/templates/question.html:413
 msgid "you can answer anonymously and then login"
@@ -2218,9 +2228,12 @@ msgstr "タイトルのコツ"
 msgid "please ask a relevant question"
 msgstr "CNPROG コミュニティーに適した質問をしましょう。"
 
+msgid "ask a question relevant to the CNPROG community"
+msgstr "CNPROG コミュニティーに適した質問をしましょう。"
+
 #: forum/skins/default/templates/question_edit_tips.html:10
 msgid "please try provide enough details"
-msgstr "十分にくわしくしましょう。"
+msgstr "必要十分に詳しく質問しましょう。"
 
 #: forum/skins/default/templates/question_retag.html:4
 #: forum/skins/default/templates/question_retag.html:53
@@ -2426,7 +2439,7 @@ msgstr "質問は<strong>回答数</strong>でソートされています。"
 
 #: forum/skins/default/templates/questions.html:211
 msgid "Most answered questions are shown first."
-msgstr "もっtも回答された質問から表示してます。"
+msgstr "もっとも回答された質問から表示してます。"
 
 #: forum/skins/default/templates/questions.html:215
 msgid "Questions are sorted by the <strong>number of votes</strong>."
@@ -3967,7 +3980,7 @@ msgstr "編集者"
 
 #: forum_modules/default_badges/badges.py:155
 msgid "First accepted answer on your own question"
-msgstr "自身の質問で回答が初めての受け入れられた"
+msgstr "自身の質問の最初の納得回答"
 
 msgid "Scholar"
 msgstr "学者"
@@ -4042,7 +4055,7 @@ msgstr "教師"
 #: forum_modules/default_badges/badges.py:260
 #, python-format
 msgid "First answer was accepted with at least %s up votes"
-msgstr ""
+msgstr "最初の回答が納得され、少なくとも %s 上げ投票があった。"
 
 msgid "Enlightened"
 msgstr "啓蒙されている"
@@ -4051,7 +4064,7 @@ msgstr "啓蒙されている"
 #: forum_modules/default_badges/badges.py:271
 #, python-format
 msgid "Accepted answer and voted up %s times"
-msgstr "回答が受け入れられ、%s 回上げ投票された"
+msgstr "回答が納得され、%s 回上げ投票された"
 
 msgid "Guru"
 msgstr "導師"
@@ -4367,7 +4380,7 @@ msgstr "自分の投稿にコメントがついたとき"
 msgid "A comment is posted"
 msgstr "コメントが投稿されたとき"
 msgid "An answer is accepted"
-msgstr "回答が受け入れられたとき"
+msgstr "回答が納得されたとき"
 msgid "More:"
 msgstr "さらに："
 msgid "Notify me when someone replies to one of my comments on any post using the @username notation"

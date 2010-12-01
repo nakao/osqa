@@ -2166,7 +2166,7 @@ msgstr "あなたの回答"
 
 #: forum/skins/default/templates/question.html:407
 msgid "Be the first one to answer this question!"
-msgstr "の質問の最初の回答者になりましょう！"
+msgstr "この質問の最初の回答者になりましょう！"
 
 #: forum/skins/default/templates/question.html:413
 msgid "you can answer anonymously and then login"

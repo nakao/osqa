@@ -50,7 +50,7 @@ msgstr "質問への回答になっていません"
 
 #: forum/const.py:12
 msgid "the question is answered, right answer was accepted"
-msgstr "質問は回答され、正当な回答が受け入れられました"
+msgstr "質問は回答され、正当な回答が納得されました"
 
 #: forum/const.py:13
 msgid "problem is not reproducible or outdated"
@@ -2162,11 +2162,11 @@ msgstr ""
 
 #: forum/skins/default/templates/question.html:405
 msgid "Your answer"
-msgstr ""
+msgstr "あなたの回答"
 
 #: forum/skins/default/templates/question.html:407
 msgid "Be the first one to answer this question!"
-msgstr "この質問の最初の回答になれます！"
+msgstr "の質問の最初の回答者になりましょう！"
 
 #: forum/skins/default/templates/question.html:413
 msgid "you can answer anonymously and then login"
@@ -2490,7 +2490,7 @@ msgstr "再開された質問"
 
 #: forum/skins/default/templates/reopen.html:19
 msgid "Open the previously closed question"
-msgstr ""
+msgstr "以前閉じられた質問を再開する"
 
 #: forum/skins/default/templates/reopen.html:22
 msgid "The question was closed for the following reason "
